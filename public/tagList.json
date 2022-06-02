@@ -1,106 +1,126 @@
 [
-   {
-      "tag":"热门推荐",
-      "tag_en":"Hot"
-   },
-   {
-      "tag":"社区",
-      "tag_en":"Community"
-   },
-   {
-      "tag":"钱包",
-      "tag_en":"Wallet"
-   },
-   {
-      "tag":"浏览器",
-      "tag_en":"Explorer"
-   },
-   {
-      "tag":"交易池",
-      "tag_en":"Mempool"
-   },
-   {
-      "tag":"资讯",
-      "tag_en":"News"
-   },
-   {
-      "tag":"买卖/使用",
-      "tag_en":"Merchants"
-   },
-   {
-      "tag":"时事通讯",
-      "tag_en":"Newsletters"
-   },
-   {
-      "tag":"博客",
-      "tag_en":"Blogs"
-   },
-   {
-      "tag":"播客",
-      "tag_en":"Podcasts"
-   },
-   {
-      "tag":"教育 & 研究资源",
-      "tag_en":"Educational & Research Resources"
-   },
-   {
-      "tag":"视频",
-      "tag_en":"Videos"
-   }, 
-   {
-      "tag":"图书",
-      "tag_en":"Books"
-   },
-   {
-      "tag":"开发者",
-      "tag_en":"Developer"
-   },
-   {
-      "tag":"隐私",
-      "tag_en":"Privacy"
-   },
-   {
-      "tag":"BTC 锚定币",
-      "tag_en":"Bitcoin-pegged Token"
-   },
-   {
-      "tag":"侧链",
-      "tag_en":"Sidechains"
-   },
-   {
-      "tag":"分叉",
-      "tag_en":"Forks"
-   },
-   {
-      "tag":"客户端",
-      "tag_en":"Clients"
-   },
-   {
-      "tag":"节点",
-      "tag_en":"Nodes"
-   },
-   {
-      "tag":"挖矿",
-      "tag_en":"Mining"
-   },
-   {
-      "tag":"闪电网络",
-      "tag_en":"Lightning Network"
-   },
-   {
-      "tag":"闪电网络钱包",
-      "tag_en":"Lightning Network Wallet"
-   },
-   {
-      "tag":"网络状态",
-      "tag_en":"Network Statistics"
-   },
-   {
-      "tag":"市场指标",
-      "tag_en":"Market Metrics"
-   },
-   {
-      "tag":"其它",
-      "tag_en":"Others"
-   }
+	{
+		"tag": "每日必看",
+		"tag_en": "Day"
+	},
+	{
+		"tag": "Web3/资讯",
+		"tag_en": "Web3-Info"
+	},
+	{
+		"tag": "Web3/产品",
+		"tag_en": "Web3-Product"
+	},
+	{
+		"tag": "Web3/Reading list",
+		"tag_en": "Web3-Reading"
+	},
+	{
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog"
+	},
+	{
+		"tag": "Web3/白皮书",
+		"tag_en": "Web3-WhitePaper"
+	},
+	{
+		"tag": "Web3/视频",
+		"tag_en": "Web3-Video"
+	},
+	{
+		"tag": "Web3/BTC",
+		"tag_en": "Web3-BTC"
+	},
+	{
+		"tag": "Web3/ETH",
+		"tag_en": "Web3-ETH"
+	},
+	{
+		"tag": "Web3/其他公链",
+		"tag_en": "Web3-OtherPubChain"
+	},
+	{
+		"tag": "Web3/交易所",
+		"tag_en": "Web3-Exchange"
+	},
+	{
+		"tag": "技术/人文",
+		"tag_en": "CS-Arch-Product"
+	},
+	{
+		"tag": "技术/后端",
+		"tag_en": "CS-Backend"
+	},
+	{
+		"tag": "技术/前端",
+		"tag_en": "CS-Frontend"
+	},
+	{
+		"tag": "技术/测试",
+		"tag_en": "CS-Test"
+	},
+	{
+		"tag": "技术/安全",
+		"tag_en": "CS-Security"
+	},
+	{
+		"tag": "技术/运维",
+		"tag_en": "CS-Ops"
+	},
+	{
+		"tag": "技术/人工智能",
+		"tag_en": "CS-AI"
+	},
+	{
+		"tag": "技术/算法",
+		"tag_en": "CS-Algorithm"
+	},
+	{
+		"tag": "技术/资讯",
+		"tag_en": "CS-Info"
+	},
+	{
+		"tag": "技术/在线工具",
+		"tag_en": "CS-Tool"
+	},
+	{
+		"tag": "技术/刷题",
+		"tag_en": "CS-Exercise"
+	},
+	{
+		"tag": "资讯",
+		"tag_en": "Info"
+	},
+	{
+		"tag": "投资",
+		"tag_en": "Invest"
+	},
+	{
+		"tag": "电子书",
+		"tag_en": "Ebook"
+	},
+	{
+		"tag": "软件",
+		"tag_en": "Software"
+	},
+	{
+		"tag": "图片",
+		"tag_en": "Img"
+	},
+	{
+		"tag": "图标",
+		"tag_en": "Icon"
+	},
+	{
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"tag": "Awesome",
+		"tag_en": "Awesome"
+	},
+	{
+		"tag": "导航",
+		"tag_en": "Nav"
+	}
 ]

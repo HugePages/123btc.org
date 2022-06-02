@@ -1,19 +1,19 @@
 import React, { useState } from 'react';
 import {
   Container,
-  Button,
+  // Button,
   Hidden,
   // IconButton,
   // Menu,
   // MenuItem,
 } from '@material-ui/core';
-import { Language } from '@material-ui/icons';
+// import { Language } from '@material-ui/icons';
 import MenuIcon from '@material-ui/icons/Menu';
 
 import NavBar from './NavBar';
 
 // import ETHLOGO from './Icons/123ETH';
-import BTCLOGO from './Icons/123BTC';
+import SoulLogo from './Icons/SoulLogo';
 // import selectDomainIcon from '../assets/domain_select.svg';
 
 import Box from './Box';
@@ -31,12 +31,10 @@ const Header = ({
 
   const translations = {
     zh: {
-      ethTitle: '以太坊生态资源导航',
-      btcTitle: '比特币生态资源导航',
+      siteTitle: '一个没有灵魂的静态导航站',
     },
     en: {
-      ethTitle: 'A Portal to Ethereum Ecosystem',
-      btcTitle: 'A Portal to Bitcoin Ecosystem'
+      siteTitle: 'Soulless static navigation site',
     }
   }
 
@@ -53,28 +51,28 @@ const Header = ({
   // };
 
   // render language change btn
-  const renderLanguageBtn = () => {
-    return (
-      <Button
-        disableElevation={true}
-        variant="outlined"
-        onClick={() => {
-          const lng = language === 'zh' ? 'en' : 'zh';
-          window.localStorage.setItem('i18nextLng', lng);
-          document.cookie = `i18next=${lng};path=/;domain=.eth123.org`;
-          document.cookie = `i18next=${lng};path=/;domain=.123btc.org`;
-          onChangeLanguage(lng);
-        }}
-        size="small"
-        startIcon={<Language />}
-        className="languageBtn"
-        style={{ textTransform: 'none' }}>
-        <Box fontWeight="400" className="languageBtn_text">
-          {language === "zh" ? 'English' : '中文'}
-        </Box>
-      </Button>
-    )
-  }
+  // const renderLanguageBtn = () => {
+  //   return (
+  //     <Button
+  //       disableElevation={true}
+  //       variant="outlined"
+  //       onClick={() => {
+  //         const lng = language === 'zh' ? 'en' : 'zh';
+  //         window.localStorage.setItem('i18nextLng', lng);
+  //         document.cookie = `i18next=${lng};path=/;domain=.eth123.org`;
+  //         document.cookie = `i18next=${lng};path=/;domain=.123btc.org`;
+  //         onChangeLanguage(lng);
+  //       }}
+  //       size="small"
+  //       startIcon={<Language />}
+  //       className="languageBtn"
+  //       style={{ textTransform: 'none' }}>
+  //       <Box fontWeight="400" className="languageBtn_text">
+  //         {language === "zh" ? 'English' : '中文'}
+  //       </Box>
+  //     </Button>
+  //   )
+  // }
 
   // web header
   const webHeader = () => {
@@ -97,12 +95,12 @@ const Header = ({
                 href="/"
                 style={{ textDecoration: 'none' }}>
                 <Box position="relative">
-                  <BTCLOGO />
+                  <SoulLogo />
                   <Box
                     mt={.5}
                     fontSize={14}
                     color="#999">
-                    {t('btcTitle')}
+                    {t('siteTitle')}
                   </Box>
                   <Box
                     position="absolute"
@@ -134,9 +132,9 @@ const Header = ({
                 </Box>
               </a> */}
             </Box>
-            <Box>
+            {/* <Box>
               {renderLanguageBtn()}
-            </Box>
+            </Box> */}
           </Box>
         </Container>
       </Box>
@@ -169,7 +167,7 @@ const Header = ({
               display="flex"
               flexDirection="row"
               alignItems="center">
-              <BTCLOGO />
+              <SoulLogo />
               {/* <IconButton
                 aria-label="more"
                 aria-controls="domain-menu"
@@ -183,14 +181,14 @@ const Header = ({
                 />
               </IconButton> */}
             </Box>
-            <Box width={32}>
+            {/* <Box width={32}>
               <Box
                 position="absolute"
                 top={10}
                 right={16}>
                 {renderLanguageBtn()}
               </Box>
-            </Box>
+            </Box> */}
           </Box>
         </Container>
         {/* <Menu

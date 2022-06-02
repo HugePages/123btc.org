@@ -18,7 +18,7 @@ import NavHotItemCard from './components/NavHotItemCard';
 import NavItemCard from './components/NavItemCard';
 // import Logo from './components/Logo';
 import Header from './components/Header';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 import Box from './components/Box';
 
 // import { jsonHost } from './services/config';
@@ -39,14 +39,12 @@ const theme = createMuiTheme({
 
 const translations = {
   zh: {
-    subTitle: '比特币生态资源导航',
-    more: '一起发现更多新产品',
-    submit: '提　交',
+    subTitle: '域名还可以吧',
+    more: '欢迎提交pr @ https://github.com/hugepages/webindexs',
   },
   en: {
-    subTitle: 'A Portal to Bitcoin Ecosystem',
-    more: 'Discover more new products',
-    submit: 'Submit',
+    subTitle: '域名还可以吧',
+    more: '欢迎提交pr @ https://github.com/hugepages/webindexs',
   }
 }
 
@@ -147,11 +145,11 @@ class App extends React.Component {
             </Hidden>
           </Box>
         </Container>
-        <Footer
+        {/* <Footer
           language={language}
           footerVisible={footerVisible}
           t={t}
-        />
+        /> */}
       </ThemeProvider>
     );
 
