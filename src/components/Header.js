@@ -163,24 +163,7 @@ const Header = ({
               }}>
               <MenuIcon />
             </Box>
-            <Box
-              display="flex"
-              flexDirection="row"
-              alignItems="center">
-              <SoulLogo />
-              {/* <IconButton
-                aria-label="more"
-                aria-controls="domain-menu"
-                aria-haspopup="true"
-                onClick={handleClick}
-              >
-                <img
-                  src={selectDomainIcon}
-                  alt=""
-                  height={24}
-                />
-              </IconButton> */}
-            </Box>
+            
             {/* <Box width={32}>
               <Box
                 position="absolute"
