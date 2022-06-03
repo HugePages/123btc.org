@@ -54,7 +54,7 @@ const NavItem = ({
     <Grid item xs={6} sm={4} md={3}>
       <Link
         color="textPrimary"
-        href={`${website}?utm_resource=fei.ai`}
+        href={`${website}?utm_resource=soul.icu`}
         target="_blank"
         underline='none'
         onClick={() => {
@@ -75,7 +75,8 @@ const NavItem = ({
                 src={formatWebpImageSrc(logo)}
                 style={{
                   height: logoHeightAuto ? 'auto' : size,
-                  width: logoWidthAuto ? 'auto' : size
+                  width: logoWidthAuto ? 'auto' : size,
+                  background: "black",
                 }}
                 imgProps={{
                   height: logoHeightAuto ? 'auto' : size,
