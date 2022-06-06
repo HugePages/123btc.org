@@ -840,8 +840,8 @@
 		"url_en": "https://fei.ai/0o5M"
 	},
 	{
-		"desc": "txstreet",
-		"desc_en": "txstreet",
+		"desc": "TxStreet",
+		"desc_en": "TxStreet",
 		"image": "",
 		"logo": "",
 		"name": "txstreet",
@@ -852,8 +852,8 @@
 		"url_en": "https://fei.ai/ztB8"
 	},
 	{
-		"desc": "chainlist",
-		"desc_en": "chainlist",
+		"desc": "ChainList",
+		"desc_en": "ChainList",
 		"image": "",
 		"logo": "",
 		"name": "chainlist",
@@ -1332,16 +1332,28 @@
 		"url_en": "https://fei.ai/Y13A"
 	},
 	{
-		"desc": "guidetoweb3",
-		"desc_en": "guidetoweb3",
+		"desc": "Guide2Web3(漫游指南)",
+		"desc_en": "Guide2Web3(漫游指南)",
 		"image": "",
 		"logo": "",
-		"name": "guidetoweb3",
-		"name_en": "guidetoweb3",
+		"name": "Guide2Web3(漫游指南)",
+		"name_en": "Guide2Web3(漫游指南)",
 		"tag": "Web3/Reading list",
 		"tag_en": "Web3-Reading",
 		"url": "https://fei.ai/JLOV",
 		"url_en": "https://fei.ai/JLOV"
+	},
+	{
+		"desc": "XDash-Web3技能树",
+		"desc_en": "XDash-Web3技能树",
+		"image": "",
+		"logo": "",
+		"name": "XDash-Web3技能树",
+		"name_en": "XDash-Web3技能树",
+		"tag": "Web3/Reading list",
+		"tag_en": "Web3-Reading",
+		"url": "https://fei.ai/ZHJG",
+		"url_en": "https://fei.ai/ZHJG"
 	},
 	{
 		"desc": "入局Web3",
@@ -1403,6 +1415,22 @@
 		"url": "https://fei.ai/8iVl",
 		"url_en": "https://fei.ai/8iVl"
 	},
+		{
+		"desc": "Development guide",
+		"desc_en": "Development guide",
+		"image": "",
+		"logo": "",
+		"name": "Development guide",
+		"name_en": "Development guide",
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog",
+		"url": "https://fei.ai/MUat",
+		"url_en": "https://fei.ai/MUat"
+	},
+
+
+
+
 	{
 		"desc": "以太坊爱好者",
 		"desc_en": "以太坊爱好者",
@@ -1426,6 +1454,30 @@
 		"tag_en": "Web3-Blog",
 		"url": "https://fei.ai/dC3e",
 		"url_en": "https://fei.ai/dC3e"
+	},
+	{
+		"desc": "Jameson Lopp",
+		"desc_en": "Jameson Lopp",
+		"image": "",
+		"logo": "",
+		"name": "Jameson Lopp",
+		"name_en": "Jameson Lopp",
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog",
+		"url": "https://fei.ai/NqLM",
+		"url_en": "https://fei.ai/NqLM"
+	},
+	{
+		"desc": "Alex Phan",
+		"desc_en": "Alex Phan",
+		"image": "",
+		"logo": "",
+		"name": "Alex Phan",
+		"name_en": "Alex Phan",
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog",
+		"url": "https://fei.ai/CyoG",
+		"url_en": "https://fei.ai/CyoG"
 	},
 	{
 		"desc": "V神",
@@ -4896,6 +4948,20 @@
 		"url_en": "https://fei.ai/8R91"
 	},
 	{
+		"desc": "67Tool",
+		"desc_en": "67Tool",
+		"image": "",
+		"logo": "",
+		"name": "67Tool",
+		"name_en": "67Tool",
+		"tag": "技术/在线工具",
+		"tag_en": "CS-Tool",
+		"url": "https://fei.ai/2Nd3",
+		"url_en": "https://fei.ai/2Nd3"
+	},
+
+	
+	{
 		"desc": "LeetCode",
 		"desc_en": "LeetCode",
 		"image": "",
@@ -5362,6 +5428,18 @@
 		"tag_en": "Ebook",
 		"url": "https://fei.ai/uudY",
 		"url_en": "https://fei.ai/uudY"
+	},
+	{
+		"desc": "Z-Library",
+		"desc_en": "Z-Library",
+		"image": "",
+		"logo": "",
+		"name": "Z-Library",
+		"name_en": "Z-Library",
+		"tag": "电子书",
+		"tag_en": "Ebook",
+		"url": "https://fei.ai/LIIC",
+		"url_en": "https://fei.ai/LIIC"
 	},
 	{
 		"desc": "雅书阁",

@@ -40,11 +40,11 @@ const theme = createMuiTheme({
 const translations = {
   zh: {
     subTitle: '域名还可以吧',
-    more: '欢迎提交pr @ https://github.com/hugepages/webindexs',
+    more: '欢迎提交pr @ https://github.com/hugepages/webindex2',
   },
   en: {
     subTitle: '域名还可以吧',
-    more: '欢迎提交pr @ https://github.com/hugepages/webindexs',
+    more: '欢迎提交pr @ https://github.com/hugepages/webindex2',
   }
 }
 
@@ -56,7 +56,7 @@ class App extends React.Component {
 
     language: getDefaultLanguage(),
     drawerVisible: false,
-    footerVisible: false,
+    // footerVisible: false,
   }
 
   componentDidMount() {
@@ -83,7 +83,7 @@ class App extends React.Component {
       // console.log('fetch resource times:', new Date().getTime() - startTime);
       this.setState({
         navList: res,
-        footerVisible: true,
+        // footerVisible: true,
       });
     }
   }
@@ -98,13 +98,13 @@ class App extends React.Component {
     const {
       navList,
       tagList,
-      footerVisible,
+      // footerVisible,
       language,
 
       drawerVisible,
     } = this.state;
 
-    const t = this.translate;
+    // const t = this.translate;
 
     return (
       <ThemeProvider theme={theme}>
