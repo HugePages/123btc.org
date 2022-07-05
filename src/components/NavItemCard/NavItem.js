@@ -54,7 +54,7 @@ const NavItem = ({
     <Grid item xs={6} sm={4} md={3}>
       <Link
         color="textPrimary"
-        href={`${website}?utm_resource=soul.icu`}
+        href={`${website}`}
         target="_blank"
         underline='none'
         onClick={() => {
@@ -64,7 +64,7 @@ const NavItem = ({
           display="flex"
           flexDirection="row"
           className={classnames("cardItem", BoxStyles.cardItem)}
-          borderRadius={8}>
+          borderRadius={4}>
           <Box mr={1}>
             <LazyLoad
               height={size}

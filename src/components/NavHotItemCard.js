@@ -29,7 +29,7 @@ class NavHotItemCard extends PureComponent {
                     className="skeletonHotCard"
                     style={{
                       backgroundColor: '#fff',
-                      borderRadius: 8,
+                      borderRadius: 4,
                     }}
                   />
                 </Grid>
@@ -62,7 +62,7 @@ class NavHotItemCard extends PureComponent {
                       flexDirection="column"
                       justifyContent="center"
                       alignItems="center"
-                      borderRadius={8}
+                      borderRadius={0}
                       backgroundColor="#fff"
                       className="hotCard">
                       <img

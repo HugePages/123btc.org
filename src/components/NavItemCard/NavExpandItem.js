@@ -9,7 +9,7 @@ const NavExpandItem = ({
   list,
   language,
 }) => {
-
+//默认展开
   const [expand, setExpand] = useState(false);
 
   if (!expand) {
@@ -26,7 +26,7 @@ const NavExpandItem = ({
             justifyContent="center"
             alignItems="center"
             className="toggleBtn"
-            borderRadius={4}
+            borderRadius={2}
             onClick={() => {
               setExpand(true);
             }}>

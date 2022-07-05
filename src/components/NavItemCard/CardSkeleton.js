@@ -13,7 +13,7 @@ const CardSkeleton = () => (getSkeletonList() || []).map((key) => (
   <Box
     mb={2}
     backgroundColor="white"
-    borderRadius={16}
+    borderRadius={8}
     key={`${key}-index`}
     className={BoxStyles.cardSkeleton}>
     <Box
