@@ -44,6 +44,10 @@
 		"tag_en": "Web3-Exchange"
 	},
 	{
+		"tag": "Web3/Awesome",
+		"tag_en": "Web3/Awesome"
+	},
+	{
 		"tag": "技术/人文",
 		"tag_en": "CS-Arch-Product"
 	},
@@ -108,16 +112,8 @@
 		"tag_en": "Img"
 	},
 	{
-		"tag": "图标",
-		"tag_en": "Icon"
-	},
-	{
 		"tag": "文档",
 		"tag_en": "Doc"
-	},
-	{
-		"tag": "Awesome",
-		"tag_en": "Awesome"
 	},
 	{
 		"tag": "导航",
