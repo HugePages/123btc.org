@@ -10,7 +10,7 @@ const NavExpandItem = ({
   language,
 }) => {
 //默认展开
-  const [expand, setExpand] = useState(false);
+  const [expand, setExpand] = useState(true);
 
   if (!expand) {
     return (

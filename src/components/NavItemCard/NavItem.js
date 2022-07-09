@@ -70,13 +70,12 @@ const NavItem = ({
               height={size}
               style={{ width: size }}
               once>
-              <Avatar
+             <Avatar
                 alt={language === 'zh' ? name : (name_en || name)}
                 src={formatWebpImageSrc(logo)}
                 style={{
                   height: logoHeightAuto ? 'auto' : size,
-                  width: logoWidthAuto ? 'auto' : size,
-                  background: "black",
+                  width: logoWidthAuto ? 'auto' : size
                 }}
                 imgProps={{
                   height: logoHeightAuto ? 'auto' : size,

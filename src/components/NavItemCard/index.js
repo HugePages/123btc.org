@@ -23,7 +23,7 @@ class NavItemCard extends PureComponent {
     return (tagList || []).slice(1).map((item) => (
       <Box
         backgroundColor="white"
-        borderRadius={16}
+        borderRadius={8}
         mb={2}
         key={item.tag_en}
         id={encodeURI(item.tag_en)}
