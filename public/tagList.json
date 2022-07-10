@@ -12,7 +12,7 @@
 		"tag_en": "Web3-Tool"
 	},
 	{
-		"tag": "Web3/Reading list",
+		"tag": "Web3/Reading",
 		"tag_en": "Web3-Reading"
 	},
 	{
@@ -34,12 +34,7 @@
 	{
 		"tag": "Web3/其他公链",
 		"tag_en": "Web3-OtherPubChain"
-	},
-	{
-		"tag": "Web3/交易所",
-		"tag_en": "Web3-Exchange"
-	},
-	
+	},	
 	{
 		"tag": "技术/人文",
 		"tag_en": "CS-Arch-Product"
