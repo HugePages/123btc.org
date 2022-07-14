@@ -44,16 +44,8 @@
 		"tag_en": "CS-Frontend"
 	},
 	{
-		"tag": "技术/测试",
-		"tag_en": "CS-Test"
-	},
-	{
 		"tag": "技术/安全",
 		"tag_en": "CS-Security"
-	},
-	{
-		"tag": "技术/运维",
-		"tag_en": "CS-Ops"
 	},
 	{
 		"tag": "技术/人工智能",
@@ -70,10 +62,6 @@
 	{
 		"tag": "技术/在线工具",
 		"tag_en": "CS-Tool"
-	},
-	{
-		"tag": "技术/刷题",
-		"tag_en": "CS-Exercise"
 	},
 	{
 		"tag": "资讯",
