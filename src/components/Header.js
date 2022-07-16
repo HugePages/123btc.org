@@ -95,7 +95,7 @@ const Header = ({
                 href="/"
                 style={{ textDecoration: 'none' }}>
                 <Box position="relative">
-                  <SoulLogo />
+                  {/* <SoulLogo /> */}
                   <Box
                     mt={.5}
                     fontSize={14}
