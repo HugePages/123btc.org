@@ -51,7 +51,7 @@ class NavHotItemCard extends PureComponent {
                 <Grid item xs={6} sm={4} md={3} key={`Hot-${index}`}>
                   <Link
                     color="textPrimary"
-                    href={`${language === 'zh' ? item.url : (item.url_en || item.url)}?utm_resource=fei.ai`}
+                    href={`${language === 'zh' ? item.url : (item.url_en || item.url)}`}
                     target="_blank"
                     underline='none'
                     onClick={() => {
