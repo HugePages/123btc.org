@@ -6,11 +6,9 @@
 		"logo": "",
 		"name": "Thoughtworks洞见",
 		"name_en": "Thoughtworks洞见",
-		"original_url": "http://insights.thoughtworkers.org/",
+		"url": "http://insights.thoughtworkers.org/",
 		"tag": "推荐",
-		"tag_en": "Hot",
-		"url": "https://fei.ai/S4ck",
-		"url_en": "https://fei.ai/S4ck"
+		"tag_en": "Hot"
 	},
 	{
 		"desc": "产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，主理人 [少楠（Plidezus）](https://mp.weixin.qq.com/s/Pj4VHdUQNYMqRAQ9uX5-jA) 和 fonter。累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。",
@@ -19,11 +17,9 @@
 		"logo": "",
 		"name": "产品沉思录",
 		"name_en": "产品沉思录",
-		"original_url": "https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27",
+		"url": "https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27",
 		"tag": "推荐",
-		"tag_en": "Hot",
-		"url": "https://fei.ai/E7QR",
-		"url_en": "https://fei.ai/E7QR"
+		"tag_en": "Hot"
 	},
 	{
 		"desc": "The Morning Paper: short summaries of important, influential, topical or otherwise interesting papers in the field of computer science.",
@@ -32,11 +28,20 @@
 		"logo": "",
 		"name": "Morning Paper",
 		"name_en": "Morning Paper",
-		"original_url": "https://blog.acolyer.org/",
+		"url": "https://blog.acolyer.org/",
 		"tag": "推荐",
-		"tag_en": "Hot",
-		"url": "https://fei.ai/1xce",
-		"url_en": "https://fei.ai/1xce"
+		"tag_en": "Hot"
+	},
+	{
+		"desc": "z自己学习记录，不用看，方便我点击的。",
+		"desc_en": "z自己学习记录，不用看，方便我点击的。",
+		"image": "/img/banner/GETH.png",
+		"logo": "",
+		"name": "自己学习记录！（别看）",
+		"name_en": "私货",
+		"url": "https://mirror.xyz/epoll.eth",
+		"tag": "推荐",
+		"tag_en": "Hot"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是首页推荐栏数据-------------------"
@@ -48,11 +53,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/messari.jpeg",
 		"name": "Messari",
 		"name_en": "Messari",
-		"original_url": "https://messari.io/",
+		"url": "https://messari.io/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/IieZ",
-		"url_en": "https://fei.ai/IieZ"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Blockchain, Crypto Data, News &amp; Ratings | TokenInsight",
@@ -61,11 +64,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tokeninsight.jpeg",
 		"name": "TokenInsight",
 		"name_en": "TokenInsight",
-		"original_url": "https://TokenInsight.com/",
+		"url": "https://TokenInsight.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/er0a",
-		"url_en": "https://fei.ai/er0a"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Where the world charts, chats and trades markets. We&#39;re a supercharged super-charting platform and social network for traders and investors. ",
@@ -74,11 +75,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tradingview.png",
 		"name": "TradingView",
 		"name_en": "TradingView",
-		"original_url": "https://www.tradingview.com/",
+		"url": "https://www.tradingview.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/QyGL",
-		"url_en": "https://fei.ai/QyGL"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "View top cryptocurrency prices live, crypto charts, market cap, and trading volume. Discover today’s new and trending coins, top crypto gainers and losers in the market.",
@@ -87,11 +86,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coingecko.jpeg",
 		"name": "Coingecko",
 		"name_en": "Coingecko",
-		"original_url": "https://www.coingecko.com/",
+		"url": "https://www.coingecko.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/Hj6z",
-		"url_en": "https://fei.ai/Hj6z"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.",
@@ -100,11 +97,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coinmarketcap.jpeg",
 		"name": "CoinMarketCap",
 		"name_en": "CoinMarketCap",
-		"original_url": "https://coinmarketcap.com/",
+		"url": "https://coinmarketcap.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/98eG",
-		"url_en": "https://fei.ai/98eG"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Watch the heatmap of cryptocurrency prices, market capitalizations, and volumes on COIN360.",
@@ -113,11 +108,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coin360.png",
 		"name": "Coin360",
 		"name_en": "Coin360",
-		"original_url": "https://coin360.com/",
+		"url": "https://coin360.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/E3xp",
-		"url_en": "https://fei.ai/E3xp"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Token Terminal is a platform that makes institutional-grade crypto asset data freely available for all",
@@ -126,11 +119,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tokenterminal.jpeg",
 		"name": "TokenTerminal",
 		"name_en": "TokenTerminal",
-		"original_url": "https://www.tokenterminal.com/",
+		"url": "https://www.tokenterminal.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/hSHg",
-		"url_en": "https://fei.ai/hSHg"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Glassnode makes blockchain data accessible for everyone. We source and carefully dissect on-chain data, to deliver contextualized and actionable insights relevant for traders and investors.",
@@ -139,11 +130,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/glassnode.png",
 		"name": "Glassnode",
 		"name_en": "Glassnode",
-		"original_url": "https://glassnode.com/",
+		"url": "https://glassnode.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/xhfq",
-		"url_en": "https://fei.ai/xhfq"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Powering the Intelligence Layer of the Crypto Markets",
@@ -152,11 +141,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/intotheblock.png",
 		"name": "IntoTheBlock",
 		"name_en": "IntoTheBlock",
-		"original_url": "https://www.intotheblock.com/",
+		"url": "https://www.intotheblock.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/fabC",
-		"url_en": "https://fei.ai/fabC"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Live price charts, trading and alerts for cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH) on Kraken, Coinbase Pro, Binance, and more.",
@@ -165,11 +152,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cryptowat.png",
 		"name": "CryptoWatch",
 		"name_en": "CryptoWatch",
-		"original_url": "https://cryptowat.ch/",
+		"url": "https://cryptowat.ch/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/ld9K",
-		"url_en": "https://fei.ai/ld9K"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "CryptoCompare is your entry point into the digital asset space. Real-time and historical market data, indices, exchange benchmarking, research, guides and more.",
@@ -178,11 +163,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cryptocompare.png",
 		"name": "CryptoCompare",
 		"name_en": "CryptoCompare",
-		"original_url": "https://www.cryptocompare.com/",
+		"url": "https://www.cryptocompare.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/M1yn",
-		"url_en": "https://fei.ai/M1yn"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Explore subgraphs published to The Graph Network.",
@@ -191,11 +174,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/thegraph.jpeg",
 		"name": "TheGraph",
 		"name_en": "TheGraph",
-		"original_url": "https://thegraph.com/explorer/",
+		"url": "https://thegraph.com/explorer/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/VMn4",
-		"url_en": "https://fei.ai/VMn4"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Crypto intelligence for the future of finance. Coin Metrics organizes the world&#039;s crypto data and makes it transparent and accessible.",
@@ -204,11 +185,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coinmetrics.jpeg",
 		"name": "CoinMetrics",
 		"name_en": "CoinMetrics",
-		"original_url": "https://coinmetrics.io/",
+		"url": "https://coinmetrics.io/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/021u",
-		"url_en": "https://fei.ai/021u"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "The curated list of decentralized applications",
@@ -217,11 +196,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/stateofthedapps.png",
 		"name": "StateOfTheDapps",
 		"name_en": "StateOfTheDapps",
-		"original_url": "https://www.stateofthedapps.com/",
+		"url": "https://www.stateofthedapps.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/6mL8",
-		"url_en": "https://fei.ai/6mL8"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Explore NFTs, NFT Marketplaces, Blockchain Games, De-Fi, Dapps On The Blockchain And More On The World’s Dapp Store.",
@@ -230,11 +207,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dappradar.jpeg",
 		"name": "DAppRadar",
 		"name_en": "DAppRadar",
-		"original_url": "https://dappradar.com/",
+		"url": "https://dappradar.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/6Ka8",
-		"url_en": "https://fei.ai/6Ka8"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.",
@@ -243,11 +218,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dexscreener.jpeg",
 		"name": "DexScreener",
 		"name_en": "DexScreener",
-		"original_url": "https://dexscreener.com/",
+		"url": "https://dexscreener.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/XvL5",
-		"url_en": "https://fei.ai/XvL5"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Monitoring +10,000 vaults on 26 chains to find Today’s best vaults on the DeFi. ",
@@ -256,11 +229,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coindix.jpeg",
 		"name": "Coindix",
 		"name_en": "Coindix",
-		"original_url": "https://coindix.com/",
+		"url": "https://coindix.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/ClJw",
-		"url_en": "https://fei.ai/ClJw"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "全球财经资讯,图形化数据解读,闪电资讯 决策先人一步.金十数据为您第一时间发布数据,计算机自动为您解读,数据影响一目了然.非农,失业率看金十网最快!",
@@ -269,11 +240,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jin10.jpeg",
 		"name": "金十",
 		"name_en": "金十",
-		"original_url": "https://www.jin10.com/",
+		"url": "https://www.jin10.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/IaPM",
-		"url_en": "https://fei.ai/IaPM"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "AICoin拥有全面而优质的数据资源，提供专业K线等服务，更高效地提供有价值的信息。",
@@ -282,11 +251,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/aicoin.jpeg",
 		"name": "AICoin",
 		"name_en": "AICoin",
-		"original_url": "https://www.aicoin.com/",
+		"url": "https://www.aicoin.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/6cIY",
-		"url_en": "https://fei.ai/6cIY"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Read the latest Bitcoin and Ethereum news from Decrypt. Get the latest on cryptocurrency prices, breaking news, and more about Bitcoin and blockchain.",
@@ -295,11 +262,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/decrypt.jpeg",
 		"name": "Decrypt",
 		"name_en": "Decrypt",
-		"original_url": "https://decrypt.co/",
+		"url": "https://decrypt.co/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/pVeq",
-		"url_en": "https://fei.ai/pVeq"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "FN精选 - Foresight News",
@@ -308,11 +273,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/foresightnews.png",
 		"name": "ForesightNews",
 		"name_en": "ForesightNews",
-		"original_url": "https://foresightnews.pro/",
+		"url": "https://foresightnews.pro/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/jb4X",
-		"url_en": "https://fei.ai/jb4X"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "巴比特始建于2011年，是国内最早的区块链（blockchain）资讯社区门户，为区块链创业者、投资者提供信息、交流与投融资服务。开放是我们的广度，中立是我们的态度，敏锐是我们的深度，欢迎一切区块链技术的探讨争鸣。目前有200多位区块链意见领袖、研究者入驻平台。如果您是我们的同类，欢迎加入我们！",
@@ -321,11 +284,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/8bit.jpeg",
 		"name": "巴比特",
 		"name_en": "巴比特",
-		"original_url": "https://www.8btc.com/",
+		"url": "https://www.8btc.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/VOGO",
-		"url_en": "https://fei.ai/VOGO"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "BlockBeats - 专业的区块链研究机构与资讯平台",
@@ -334,11 +295,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/theblockbeats.jpeg",
 		"name": "律动",
 		"name_en": "律动",
-		"original_url": "https://www.theblockbeats.info/",
+		"url": "https://www.theblockbeats.info/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/Pl6o",
-		"url_en": "https://fei.ai/Pl6o"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "链捕手ChainCatcher为区块链技术爱好者与项目决策者提供NFT、DeFi、元宇宙等专业的资讯与研究内容，致力于拓宽读者对区块链与数字经济认知的边界。",
@@ -347,11 +306,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/chaincatcher.jpeg",
 		"name": "链捕手",
 		"name_en": "链捕手",
-		"original_url": "https://www.chaincatcher.com/",
+		"url": "https://www.chaincatcher.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/pOz1",
-		"url_en": "https://fei.ai/pOz1"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Blockspaper is the leading Blockchain Data &amp; News media in Southeast Asia. Our team are experienced Fintech/Blockchain professionals across Taiwan, Hong Kong, Singapore, China, Thailand and the United States. Our mission is to provide the most ASEAN-relevant Blockchain/ Fintech News &amp; Insights, and to serve as the ultimate guide for ASEAN crypto world investment.",
@@ -360,11 +317,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blcokspaper.jpeg",
 		"name": "BlcoksPaper",
 		"name_en": "BlcoksPaper",
-		"original_url": "https://blockspaper.com/en/",
+		"url": "https://blockspaper.com/en/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/05sW",
-		"url_en": "https://fei.ai/05sW"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "We deliver up-to-date, breaking crypto news about the latest Bitcoin, Ethereum, Blockchain, NFTs, and Altcoin trends and happenings.",
@@ -373,11 +328,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cryptonews.jpeg",
 		"name": "CryptoNews",
 		"name_en": "CryptoNews",
-		"original_url": "https://cryptonews.com/",
+		"url": "https://cryptonews.com/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/LDon",
-		"url_en": "https://fei.ai/LDon"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "链闻存档-遇见历史",
@@ -386,11 +339,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/chainnews.jpeg",
 		"name": "链闻存档",
 		"name_en": "链闻存档",
-		"original_url": "https://chainnews-archive.org/",
+		"url": "https://chainnews-archive.org/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/c7qo",
-		"url_en": "https://fei.ai/c7qo"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "DeFi / Crypto - Investigative journalism &amp;amp; creative commentary",
@@ -399,11 +350,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rekt.jpeg",
 		"name": "REKT",
 		"name_en": "REKT",
-		"original_url": "https://rekt.news/zh/",
+		"url": "https://rekt.news/zh/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/tLmQ",
-		"url_en": "https://fei.ai/tLmQ"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Discover Web3 Trends",
@@ -412,11 +361,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/chainfeeds.jpeg",
 		"name": "ChainFeeds",
 		"name_en": "ChainFeeds",
-		"original_url": "https://www.chainfeeds.xyz/",
+		"url": "https://www.chainfeeds.xyz/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/Hl10",
-		"url_en": "https://fei.ai/Hl10"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"desc": "Web3Caff - 以深度视角探索 Web3.0 产业创新",
@@ -425,11 +372,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/web3caff.jpeg",
 		"name": "Web3Caff",
 		"name_en": "Web3Caff",
-		"original_url": "https://web3caff.com/zh/",
+		"url": "https://web3caff.com/zh/",
 		"tag": "Web3/资讯",
-		"tag_en": "Web3-Info",
-		"url": "https://fei.ai/ALF2",
-		"url_en": "https://fei.ai/ALF2"
+		"tag_en": "Web3-Info"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/资讯」数据-------------------"
@@ -441,11 +386,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/hiveone.jpeg",
 		"name": "HiveOne",
 		"name_en": "HiveOne",
-		"original_url": "https://hive.one/",
+		"url": "https://hive.one/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/RyoS",
-		"url_en": "https://fei.ai/RyoS"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Own crypto in multiple exchanges and wallets? Sync them to CoinStats so you track and manage them from one place. Track 8000+ coins and 300+ exchanges.",
@@ -454,11 +397,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coinstats.jpeg",
 		"name": "CoinStats",
 		"name_en": "CoinStats",
-		"original_url": "https://coinstats.app/",
+		"url": "https://coinstats.app/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/CFmv",
-		"url_en": "https://fei.ai/CFmv"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "The analytics + rankings hub for DeFi. DeFi Pulse tracks key metrics for Decentralized Finance(DeFi) projects and so you can stay up to date on the latest trends.",
@@ -467,11 +408,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/defipulse.png",
 		"name": "DefiPulse",
 		"name_en": "DefiPulse",
-		"original_url": "https://defipulse.com/",
+		"url": "https://defipulse.com/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/YIsC",
-		"url_en": "https://fei.ai/YIsC"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "A multi-chain portfolio tracker that supports the largest number of DeFi protocols.",
@@ -480,11 +419,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/debank.jpeg",
 		"name": "Debank",
 		"name_en": "Debank",
-		"original_url": "https://debank.com/",
+		"url": "https://debank.com/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/lwon",
-		"url_en": "https://fei.ai/lwon"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, xDai, Polygon, Optimism, BSC and Solana for free.",
@@ -493,11 +430,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dune.png",
 		"name": "DUNE",
 		"name_en": "DUNE",
-		"original_url": "https://duneanalytics.com/home",
+		"url": "https://duneanalytics.com/home",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/5O1t",
-		"url_en": "https://fei.ai/5O1t"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data.",
@@ -506,11 +441,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/footprint.jpeg",
 		"name": "Footprint",
 		"name_en": "Footprint",
-		"original_url": "https://www.footprint.network/dashboards",
+		"url": "https://www.footprint.network/dashboards",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/e1CU",
-		"url_en": "https://fei.ai/e1CU"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Real Time Crypto And NFT Insights",
@@ -519,11 +452,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/nansen.jpeg",
 		"name": "Nansen",
 		"name_en": "Nansen",
-		"original_url": "https://www.nansen.ai/",
+		"url": "https://www.nansen.ai/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/CD1J",
-		"url_en": "https://fei.ai/CD1J"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Calculate how profitable it is to mine selected altcoins in comparison to ethereum or bitcoin",
@@ -532,11 +463,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/whattomine.jpeg",
 		"name": "蒜什么",
 		"name_en": "蒜什么",
-		"original_url": "https://whattomine.com/",
+		"url": "https://whattomine.com/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/yWlU",
-		"url_en": "https://fei.ai/yWlU"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "WalletExplorer.com: smart Bitcoin block explorer",
@@ -545,11 +474,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/walletexplorer.png",
 		"name": "WalletExplorer",
 		"name_en": "WalletExplorer",
-		"original_url": "https://www.walletexplorer.com/",
+		"url": "https://www.walletexplorer.com/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/cPwe",
-		"url_en": "https://fei.ai/cPwe"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.",
@@ -558,11 +485,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/defillama.jpeg",
 		"name": "DefiLlama",
 		"name_en": "DefiLlama",
-		"original_url": "https://defillama.com/nfts",
+		"url": "https://defillama.com/nfts",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/0o5M",
-		"url_en": "https://fei.ai/0o5M"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Cryptocurrency (Bitcoin, Ethereum etc) blockchain live transaction visualizer. Every tx is a person, and they fill up buses which represent blocks.",
@@ -571,11 +496,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/txstreet.png",
 		"name": "TXStreet",
 		"name_en": "TXStreet",
-		"original_url": "https://txstreet.com/v/eth-btc",
+		"url": "https://txstreet.com/v/eth-btc",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/ztB8",
-		"url_en": "https://fei.ai/ztB8"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Chainlist 是 EVM 网络的列表。 用户可以使用这些信息将他们的钱包和 Web3 中间件提供商连接到适当的 Chain ID 和网络 ID，以连接到正确的链。",
@@ -584,11 +507,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/defillama.jpeg",
 		"name": "Chainlist",
 		"name_en": "Chainlist",
-		"original_url": "https://chainlist.org/",
+		"url": "https://chainlist.org/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/nK5J",
-		"url_en": "https://fei.ai/nK5J"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Gem - The NFT Marketplace Aggregator",
@@ -597,11 +518,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/gem.jpeg",
 		"name": "Gem",
 		"name_en": "Gem",
-		"original_url": "https://www.gem.xyz/",
+		"url": "https://www.gem.xyz/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/OLTx",
-		"url_en": "https://fei.ai/OLTx"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Discover new and useful tools for your crypto journey",
@@ -610,11 +529,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/criptotool.jpeg",
 		"name": "CriptoTool",
 		"name_en": "CriptoTool",
-		"original_url": "https://cripto.tools/",
+		"url": "https://cripto.tools/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/z40E",
-		"url_en": "https://fei.ai/z40E"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "We analyze NFT crypto wallets & their activities, so you can separate the signal from the noise and Get NFT tools For ACNFT",
@@ -623,11 +540,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/acnft.jpeg",
 		"name": "AcNFT",
 		"name_en": "AcNFT",
-		"original_url": "https://www.acnft.xyz/",
+		"url": "https://www.acnft.xyz/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/Ijbt",
-		"url_en": "https://fei.ai/Ijbt"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "CryptoWeb3",
@@ -636,11 +551,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cryptoweb3.png",
 		"name": "CryptoWeb3",
 		"name_en": "CryptoWeb3",
-		"original_url": "https://cryptoweb3.tools/",
+		"url": "https://cryptoweb3.tools/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/ORKj",
-		"url_en": "https://fei.ai/ORKj"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "Welcome to the first community-led web3 developer resources platform. Browse, Add and Vote for your favorite web3 developer tools.",
@@ -649,11 +562,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/web3tool.png",
 		"name": "Web3-Tools",
 		"name_en": "Web3-Tools",
-		"original_url": "https://web3-tools.xyz/",
+		"url": "https://web3-tools.xyz/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/fo3Z",
-		"url_en": "https://fei.ai/fo3Z"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "MCT 链上工具 - 您在区块链世界的得力助手！",
@@ -662,11 +573,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mycointool.jpeg",
 		"name": "MyCoinTool",
 		"name_en": "MyCoinTool",
-		"original_url": "https://mycointool.com/",
+		"url": "https://mycointool.com/",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/p2Wg",
-		"url_en": "https://fei.ai/p2Wg"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "cointool.app It's an online crypto toolbox",
@@ -675,11 +584,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cointool.png",
 		"name": "CoinTool",
 		"name_en": "CoinTool",
-		"original_url": "https://cointool.app/dashboard",
+		"url": "https://cointool.app/dashboard",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/ymHa",
-		"url_en": "https://fei.ai/ymHa"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"desc": "一款比较不错的科学家软件，功能也是非常丰富。除了抢新币以为，还可以抢预售。对于喜欢玩一级市场土狗的朋友来说，简直就是神器了。",
@@ -688,11 +595,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/maitugou.png",
 		"name": "买土狗",
 		"name_en": "买土狗",
-		"original_url": "http://maitugou.com/#/dashboard",
+		"url": "http://maitugou.com/#/dashboard",
 		"tag": "Web3/工具",
-		"tag_en": "Web3-Tool",
-		"url": "https://fei.ai/AzZz",
-		"url_en": "https://fei.ai/AzZz"
+		"tag_en": "Web3-Tool"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/工具」数据-------------------"
@@ -704,11 +609,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/a16z.jpeg",
 		"name": "Crypto-Canon",
 		"name_en": "Crypto-Canon",
-		"original_url": "https://a16z.com/2018/02/10/crypto-readings-resources/",
+		"url": "https://a16z.com/2018/02/10/crypto-readings-resources/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/f3T9",
-		"url_en": "https://fei.ai/f3T9"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "为了帮助小伙伴们系统学习区块链技术，我们建了这个索引贴，方便大家找到自己感兴趣的文章，从入门到精通一步步学习区块链开发。你也可以使用左侧的分类、标签及搜索功能。",
@@ -717,11 +620,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/learnblockchain.png",
 		"name": "入门学习指引",
 		"name_en": "入门学习指引",
-		"original_url": "https://learnblockchain.cn/2018/01/11/guide/",
+		"url": "https://learnblockchain.cn/2018/01/11/guide/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/UGlQ",
-		"url_en": "https://fei.ai/UGlQ"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "- 层级 1：Web3 那是个啥，八成是伪命题。- 层级 2：Web3 有点道理，顺应时代潮流。- 层级 3：Web3 过度讨论，迟早泡沫破裂。- 层级 4：Web3 即便泡沫，也得入局卡位。- 层级 5：Web3 先让人试，我再来抄作业。- 层级 6：Web3 圈中一天，抵得人间一年。- 层级 7：Web3 项目横飞，还是聚焦底层。- 层级 8：Web3 底层叙事，目前为时过早。",
@@ -730,11 +631,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xdash.jpeg",
 		"name": "Web3 认知升级技能树",
 		"name_en": "Web3 认知升级技能树",
-		"original_url": "https://xdash.notion.site/Web3-07b648a1e3874f3f9428b8dd6893f1f8",
+		"url": "https://xdash.notion.site/Web3-07b648a1e3874f3f9428b8dd6893f1f8",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/ZHJG",
-		"url_en": "https://fei.ai/ZHJG"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "The NFT Canon is a go-to resource for artists and creators, developers, corporations and institutions, communities and other organizations seeking to understand or do more with non-fungible tokens.",
@@ -743,11 +642,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/a16z.jpeg",
 		"name": "NFT-Canon",
 		"name_en": "NFT-Canon",
-		"original_url": "https://future.a16z.com/nft-canon/",
+		"url": "https://future.a16z.com/nft-canon/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/bhVw",
-		"url_en": "https://fei.ai/bhVw"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Curated resources for those seeking to understand, build, and otherwise get involved with decentralized autonomous organizations or DAOs",
@@ -756,11 +653,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/a16z.jpeg",
 		"name": "DAO-Canon",
 		"name_en": "DAO-Canon",
-		"original_url": "https://future.a16z.com/dao-canon/",
+		"url": "https://future.a16z.com/dao-canon/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/cxAv",
-		"url_en": "https://fei.ai/cxAv"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "2022年展望",
@@ -769,11 +664,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/apple.png",
 		"name": "💙2022年展望",
 		"name_en": "💙2022年展望",
-		"original_url": "https://three-recorder-52a.notion.site/39d5cccc77524d60bb2127bd5ace53a9?v=5b90c088d12b452f86eea95f4fe93b72",
+		"url": "https://three-recorder-52a.notion.site/39d5cccc77524d60bb2127bd5ace53a9?v=5b90c088d12b452f86eea95f4fe93b72",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/wkYZ",
-		"url_en": "https://fei.ai/wkYZ"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "A handbook for all things web3 careeer",
@@ -782,11 +675,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/workinginweb3.avif",
 		"name": "Working In Web3",
 		"name_en": "Working In Web3",
-		"original_url": "https://web3.smsunarto.com/#a58f15765cf54c23984e8a4b2f2e0fda",
+		"url": "https://web3.smsunarto.com/#a58f15765cf54c23984e8a4b2f2e0fda",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/8t8Q",
-		"url_en": "https://fei.ai/8t8Q"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "How PMing in web3 is different, the pros and cons of going web3, how to break in, and how to be successful—by guest author Jason Shah, head of product at Alchemy",
@@ -795,11 +686,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/lenny.png",
 		"name": "Lenny's Newsletter",
 		"name_en": "Lenny's Newsletter",
-		"original_url": "https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3?s=r",
+		"url": "https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3?s=r",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/6sSe",
-		"url_en": "https://fei.ai/6sSe"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Recommended blockchain & crypto courses",
@@ -808,11 +697,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/heije.jpeg",
 		"name": "Blockchain Crypto Courses",
 		"name_en": "Blockchain Crypto Courses",
-		"original_url": "https://www.wslyvh.com/blockchain-crypto-courses/",
+		"url": "https://www.wslyvh.com/blockchain-crypto-courses/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/lNeh",
-		"url_en": "https://fei.ai/lNeh"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Ethereum Developer Portal &amp;amp; Training [2020 Update]. Check our latest free developer tools, resources, guides, programming libraries, and more.",
@@ -821,11 +708,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/consensys.jpeg",
 		"name": "Consensys Dev Stack",
 		"name_en": "Consensys Dev Stack",
-		"original_url": "https://consensys.net/developers/stack/#knowledge",
+		"url": "https://consensys.net/developers/stack/#knowledge",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/MyM8",
-		"url_en": "https://fei.ai/MyM8"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "区块链及技术总结",
@@ -834,11 +719,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zhihu.jpeg",
 		"name": "区块链及技术总结",
 		"name_en": "区块链及技术总结",
-		"original_url": "https://zhuanlan.zhihu.com/p/22609209",
+		"url": "https://zhuanlan.zhihu.com/p/22609209",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/9zvF",
-		"url_en": "https://fei.ai/9zvF"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "43个区块链开发工具",
@@ -847,11 +730,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jianshu.png",
 		"name": "43个区块链开发工具",
 		"name_en": "43个区块链开发工具",
-		"original_url": "https://www.jianshu.com/p/ea0e210a318b",
+		"url": "https://www.jianshu.com/p/ea0e210a318b",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/cogZ",
-		"url_en": "https://fei.ai/cogZ"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "分布式系统中共识和分区容错",
@@ -860,11 +741,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/trias.jpeg",
 		"name": "分布式系统中共识和分区容错",
 		"name_en": "分布式系统中共识和分区容错",
-		"original_url": "https://triaslab.medium.com/consensus-algorithms-and-fault-tolerance-in-distributed-systems-bf86d5aac45a",
+		"url": "https://triaslab.medium.com/consensus-algorithms-and-fault-tolerance-in-distributed-systems-bf86d5aac45a",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/qx9A",
-		"url_en": "https://fei.ai/qx9A"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "我们画了些图，并用通俗的语言，来解释天才程序员设计的以太坊",
@@ -873,11 +752,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/infoq.png",
 		"name": "How-does-ethereum-work-anyway",
 		"name_en": "How-does-ethereum-work-anyway",
-		"original_url": "https://www.infoq.cn/article/how-does-ethereum-work-anyway",
+		"url": "https://www.infoq.cn/article/how-does-ethereum-work-anyway",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/eoj7",
-		"url_en": "https://fei.ai/eoj7"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Solidity Security: Comprehensive list of known attack vectors and common anti-patterns",
@@ -886,11 +763,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sigp.png",
 		"name": "Solidity-Security",
 		"name_en": "Solidity Security",
-		"original_url": "https://blog.sigmaprime.io/solidity-security.html#race-conditions",
+		"url": "https://blog.sigmaprime.io/solidity-security.html#race-conditions",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/OpjQ",
-		"url_en": "https://fei.ai/OpjQ"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "以太坊智能合约 —— 最佳安全开发指南",
@@ -899,11 +774,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cnblogs.png",
 		"name": "以太坊智能合约 —— 最佳安全开发指南",
 		"name_en": "以太坊智能合约 —— 最佳安全开发指南",
-		"original_url": "https://www.cnblogs.com/wanghui-garcia/p/9580573.html",
+		"url": "https://www.cnblogs.com/wanghui-garcia/p/9580573.html",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/aBQM",
-		"url_en": "https://fei.ai/aBQM"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "深度解析 Solidity 的 17 个坑及超详细避坑指南",
@@ -912,11 +785,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cnblogs.png",
 		"name": "深度解析 Solidity 的 17 个坑及超详细避坑指南",
 		"name_en": "深度解析 Solidity 的 17 个坑及超详细避坑指南",
-		"original_url": "https://www.cnblogs.com/wanghui-garcia/p/9615652.html",
+		"url": "https://www.cnblogs.com/wanghui-garcia/p/9615652.html",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/77nS",
-		"url_en": "https://fei.ai/77nS"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "本文档为 Nervos 核心项目 CKB 提供一个概览性的描述。Nervos 是一个分层架构的分布式应用网络，CKB 是可以为 Nervos 网络中所有分布式应用提供数据、资产与身份服务的共同知识库（Common Knowledge Base）。",
@@ -925,11 +796,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jianshu.png",
 		"name": "关于CKB白皮书的阅读与思考",
 		"name_en": "关于CKB白皮书的阅读与思考",
-		"original_url": "https://www.jianshu.com/p/36e7252b3f16",
+		"url": "https://www.jianshu.com/p/36e7252b3f16",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/vFf1",
-		"url_en": "https://fei.ai/vFf1"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Transition to web3: a guide for non-technical roles",
@@ -938,11 +807,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/transition2web3.avif",
 		"name": "Guide to web3",
 		"name_en": "Guide to web3",
-		"original_url": "https://guidetoweb3.xyz/",
+		"url": "https://guidetoweb3.xyz/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/wKKH",
-		"url_en": "https://fei.ai/wKKH"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Messari 年度报告 - Crypto Theses for 2022",
@@ -951,11 +818,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/w3-hitchhiker.jpeg",
 		"name": "Messari年度报告2022",
 		"name_en": "Messari年度报告2022",
-		"original_url": "https://w3hitchhiker.mirror.xyz/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA",
+		"url": "https://w3hitchhiker.mirror.xyz/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/Y13A",
-		"url_en": "https://fei.ai/Y13A"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "这部小书，是我对 Web3 领域的一个记录，也将带有我比较强烈的个人观点。它能否见证 Web3 领域的波澜壮阔，我不敢说。但他绝对会是我这个自诩站在时代前沿（也可能是悬崖哈哈）的数字嬉皮士的思想汇总。",
@@ -964,11 +829,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tannhauser2049.jpeg",
 		"name": "Web 3.0 漫游指南",
 		"name_en": "Web 3.0 漫游指南",
-		"original_url": "https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc",
+		"url": "https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/JLOV",
-		"url_en": "https://fei.ai/JLOV"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "超 10 万字！请收下这份万能 NFT 知识图谱 ——《从 0 到 1: 精通 NFT》",
@@ -977,11 +840,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/howtonft.png",
 		"name": "从 0 到 1 : 精通 NFT",
 		"name_en": "从 0 到 1 : 精通 NFT",
-		"original_url": "https://web3caff.com/zh/archives/9188",
+		"url": "https://web3caff.com/zh/archives/9188",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/bJEf",
-		"url_en": "https://fei.ai/bJEf"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "Adam Cochran 的 2022 年加密货币投资清单 ,206 条长推特",
@@ -990,11 +851,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xxoodao.png",
 		"name": "Adam Cochran的206条长推特",
 		"name_en": "Adam Cochran的206条长推特",
-		"original_url": "https://mirror.xyz/xxoodao.eth/bGJX6TMVNh66WuBz06QxADC_WBuLidREJQtpIPtp5e0",
+		"url": "https://mirror.xyz/xxoodao.eth/bGJX6TMVNh66WuBz06QxADC_WBuLidREJQtpIPtp5e0",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/64ip",
-		"url_en": "https://fei.ai/64ip"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "随着越来越的人参与到区块链这个行业中来，为行业注入新活力的同时也由于相关知识的薄弱以及安全意识的匮乏，给了攻击者更多的可乘之机。面对频频爆发的安全事件，慢雾特推出区块链安全入门笔记系列，向大家介绍区块链安全相关名词，让新手们更快适应区块链危机四伏的安全攻防世界。",
@@ -1003,11 +862,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog4.png",
 		"name": "区块链安全入门笔记",
 		"name_en": "区块链安全入门笔记",
-		"original_url": "https://github.com/slowmist/Knowledge-Base/blob/master/blockchain_security_study_notes",
+		"url": "https://github.com/slowmist/Knowledge-Base/blob/master/blockchain_security_study_notes",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/VpHq",
-		"url_en": "https://fei.ai/VpHq"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "内容当前由登链学院成员虞双齐写作， 首发于深入浅出区块链博客下电子书栏目《以太坊设计与实现》。",
@@ -1016,11 +873,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/learnblockchain.png",
 		"name": "以太坊设计与实现",
 		"name_en": "以太坊设计与实现",
-		"original_url": "https://learnblockchain.cn/books/geth/",
+		"url": "https://learnblockchain.cn/books/geth/",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/fyC1",
-		"url_en": "https://fei.ai/fyC1"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "全面掌握Solidity-全面掌握 Solidity 语言特性，增强实际智能开发能力",
@@ -1029,11 +884,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/learnblockchain.png",
 		"name": "全面掌握 Solidity 智能合约开发",
 		"name_en": "全面掌握 Solidity 智能合约开发",
-		"original_url": "https://learnblockchain.cn/column/1",
+		"url": "https://learnblockchain.cn/column/1",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/6ssM",
-		"url_en": "https://fei.ai/6ssM"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"desc": "胖车库是一个有意思人类的收集计划（开发者、创业者、自由职业者，还有你）和 DAO 去中心化协作实验室，看看大家都在不同领域做着什么样新的尝试，希望给你未来的可能性提供一些想象力。",
@@ -1042,11 +895,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
 		"name": "如何不靠运气变得富有",
 		"name_en": "如何不靠运气变得富有",
-		"original_url": "https://www.notion.so/taosu/faf1fa3dbcc34e60b443506e76a9c1ab",
+		"url": "https://www.notion.so/taosu/faf1fa3dbcc34e60b443506e76a9c1ab",
 		"tag": "Web3/Reading",
-		"tag_en": "Web3-Reading",
-		"url": "https://fei.ai/zBs9",
-		"url_en": "https://fei.ai/zBs9"
+		"tag_en": "Web3-Reading"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/Reading」数据-------------------"
@@ -1058,11 +909,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/vitalikbuterin.jpeg",
 		"name": "Vitalik Buterin",
 		"name_en": "Vitalik Buterin",
-		"original_url": "https://vitalik.ca/",
+		"url": "https://vitalik.ca/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/e0Ls",
-		"url_en": "https://fei.ai/e0Ls"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "FREE-TRUST TECHNOLOGIST AND FOUNDER OF POLKADOT, KUSAMA, PARITY, WEB3 FOUNDATION AND ETHEREUM",
@@ -1071,11 +920,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/gavinwood.jpeg",
 		"name": "GavinWood",
 		"name_en": "GavinWood",
-		"original_url": "http://gavwood.com/",
+		"url": "http://gavwood.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/sZDW",
-		"url_en": "https://fei.ai/sZDW"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Hacker and professor at Cornell, with interests that span distributed systems, OSes and networking. Current projects include HyperDex, OpenReplica and the Nexus OS.",
@@ -1084,11 +931,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dr.gun.jpeg",
 		"name": "Emin Gün Sirer",
 		"name_en": "Emin Gün Sirer",
-		"original_url": "https://hackingdistributed.com/",
+		"url": "https://hackingdistributed.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/Bafn",
-		"url_en": "https://fei.ai/Bafn"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Programming, philosophy, history, internet, startups, web3 @ a16z",
@@ -1097,11 +942,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/a16z.png",
 		"name": "Chris Dixon",
 		"name_en": "Chris Dixon",
-		"original_url": "https://cdixon.org/",
+		"url": "https://cdixon.org/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/sLJL",
-		"url_en": "https://fei.ai/sLJL"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "devpill.me is a public good blockchain development guide aimed at becoming the go-to learning resource aggregator for building on Ethereum and its wider ecosystem of scaling solutions and applications.",
@@ -1110,11 +953,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/devpillme.jpeg",
 		"name": "devpill.me",
 		"name_en": "devpill.me",
-		"original_url": "https://www.devpill.me/",
+		"url": "https://www.devpill.me/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/MUat",
-		"url_en": "https://fei.ai/MUat"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "I created the More Equal Animals blog to disseminate thoughts on how to secure life, liberty, property and justice for all",
@@ -1123,11 +964,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dlcaricature.jpeg",
 		"name": "Daniel Larimer",
 		"name_en": "Daniel Larimer",
-		"original_url": "https://bytemaster.github.io/",
+		"url": "https://bytemaster.github.io/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/nxgh",
-		"url_en": "https://fei.ai/nxgh"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Hi, I'm Greg. I like making websites. I'm currently working on an educational bitcoin website for beginners.",
@@ -1136,11 +975,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/learn-me-a-bitcoin.png",
 		"name": "Learn me a bitcoin",
 		"name_en": "Learn me a bitcoin",
-		"original_url": "https://learnmeabitcoin.com/",
+		"url": "https://learnmeabitcoin.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/dC3e",
-		"url_en": "https://fei.ai/dC3e"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Jameson Lopp - My mission is to use my skills as a technologist to build tools that empower individuals. ",
@@ -1149,11 +986,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/lopp.jpeg",
 		"name": "Jameson Lopp",
 		"name_en": "Jameson Lopp",
-		"original_url": "https://www.lopp.net/",
+		"url": "https://www.lopp.net/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/NqLM",
-		"url_en": "https://fei.ai/NqLM"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "I wanted to make a list of resources for web3. Here are my notes for anything I’ve found helpful. ",
@@ -1162,11 +997,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/alexphan.jpeg",
 		"name": "Alex Phan",
 		"name_en": "Alex Phan",
-		"original_url": "https://www.alexdphan.com/",
+		"url": "https://www.alexdphan.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/CyoG",
-		"url_en": "https://fei.ai/CyoG"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Jack of all trades, master of none. DeFi/ AMM/Math enthusiast. Clojure/Golang/DevOps",
@@ -1175,11 +1008,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jeiwan.jpeg",
 		"name": "Going the distance",
 		"name_en": "Going the distance",
-		"original_url": "https://jeiwan.net/",
+		"url": "https://jeiwan.net/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/P1Vi",
-		"url_en": "https://fei.ai/P1Vi"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "JamesBachini.com | DeFi, Bitcoin, Ethereum, Yield Farming &amp; Blockchain Development",
@@ -1188,11 +1019,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jamesbachini.jpeg",
 		"name": "James Bachini",
 		"name_en": "James Bachini",
-		"original_url": "https://jamesbachini.com/",
+		"url": "https://jamesbachini.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/dck7",
-		"url_en": "https://fei.ai/dck7"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "A monthly newsletter for Rust and blockchain developers.",
@@ -1201,11 +1030,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rustinblockchain.jpeg",
 		"name": "Rust in Blockchain ❤ rib.rs",
 		"name_en": "RustinBlockchain",
-		"original_url": "https://rustinblockchain.org/",
+		"url": "https://rustinblockchain.org/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/izSj",
-		"url_en": "https://fei.ai/izSj"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "(Almost) everything you want to know and discuss about hackathons",
@@ -1214,11 +1041,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/hackathondao.jpeg",
 		"name": "Hackathon DAO",
 		"name_en": "Hackathon DAO",
-		"original_url": "https://dorahacksglobal.github.io/Hackathon-Playbook/",
+		"url": "https://dorahacksglobal.github.io/Hackathon-Playbook/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/GsK2",
-		"url_en": "https://fei.ai/GsK2"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "中文里最受欢迎的区块链技术社区",
@@ -1227,11 +1052,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/learnblockchain.png",
 		"name": "登链社区",
 		"name_en": "登链社区",
-		"original_url": "http://learnblockchain.cn/",
+		"url": "http://learnblockchain.cn/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/8iVl",
-		"url_en": "https://fei.ai/8iVl"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "比特币布道者 —— 比特币就是互联网+铸币权！",
@@ -1240,11 +1063,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btcmom.png",
 		"name": "BTC.mom",
 		"name_en": "BTC.mom",
-		"original_url": "http://btc.mom/",
+		"url": "http://btc.mom/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/kiVk",
-		"url_en": "https://fei.ai/kiVk"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "谢晗剑，Nervos 联合创始人、秘猿科技 CEO，从前是以太坊核心研发团队成员，也是中国以太坊及区块链技术社区 ETHFans 发起人之一。",
@@ -1253,11 +1074,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jan.jpeg",
 		"name": "谢晗剑",
 		"name_en": "谢晗剑",
-		"original_url": "https://www.jianshu.com/u/5c0a197e6f1c",
+		"url": "https://www.jianshu.com/u/5c0a197e6f1c",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/Z15p",
-		"url_en": "https://fei.ai/Z15p"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "I’m Xuejie Xiao, this is my new site for writing.",
@@ -1266,11 +1085,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xxuejie.jpeg",
 		"name": "Xuejie Xiao",
 		"name_en": "Xuejie Xiao",
-		"original_url": "https://xuejie.space/",
+		"url": "https://xuejie.space/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/Kavk",
-		"url_en": "https://fei.ai/Kavk"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Baohua Yang is currently the principal architect of Oracle's Blockchain product, leading the research and development of Blockchain service and product. ",
@@ -1279,11 +1096,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yangbaohua.png",
 		"name": "Baohua Yang",
 		"name_en": "Baohua Yang",
-		"original_url": "https://blog.csdn.net/yeasy",
+		"url": "https://blog.csdn.net/yeasy",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/eVvR",
-		"url_en": "https://fei.ai/eVvR"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "姜家志，原比特大陆哥白尼团队负责人",
@@ -1292,11 +1107,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jiangjiazhi.jpeg",
 		"name": "姜家志",
 		"name_en": "姜家志",
-		"original_url": "https://www.8btc.com/author/3293",
+		"url": "https://www.8btc.com/author/3293",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/wFOi",
-		"url_en": "https://fei.ai/wFOi"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "登链学院合伙人，首席讲师，是百万阅读电子书《以太坊技术与实现》的作者，是视频课程《说透以太坊技术》的讲师。前国信香港证券 IT 运维经理，前 Nerthus 区块链 CTO。",
@@ -1305,11 +1118,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yushuangqi.png",
 		"name": "虞双齐",
 		"name_en": "虞双齐",
-		"original_url": "https://yushuangqi.com/",
+		"url": "https://yushuangqi.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/7jYC",
-		"url_en": "https://fei.ai/7jYC"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "shuwoom-鹅厂高级工程师一枚，专注后端开发，目标是全栈工程师",
@@ -1318,11 +1129,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/guanchao.jpeg",
 		"name": "shuwoom",
 		"name_en": "shuwoom",
-		"original_url": "https://shuwoom.com",
+		"url": "https://shuwoom.com",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/S6fE",
-		"url_en": "https://fei.ai/S6fE"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "sealed for the past,writing for the future.",
@@ -1331,11 +1140,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mindcarver.png",
 		"name": "死磕以太坊源码分析",
 		"name_en": "死磕以太坊源码分析",
-		"original_url": "https://mindcarver.cn",
+		"url": "https://mindcarver.cn",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/mAKO",
-		"url_en": "https://fei.ai/mAKO"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "knarfeh's logbook:go-ethereum源码解析",
@@ -1344,11 +1151,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/knarfeh.png",
 		"name": "knarfeh's logbook",
 		"name_en": "knarfeh's logbook",
-		"original_url": "https://knarfeh.com/",
+		"url": "https://knarfeh.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/wVkk",
-		"url_en": "https://fei.ai/wVkk"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Note 个人笔记 -Sun",
@@ -1357,11 +1162,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog5.png",
 		"name": "Sun-note",
 		"name_en": "Sun-note",
-		"original_url": "https://sunhuachuang.gitbooks.io/sun-note/content/",
+		"url": "https://sunhuachuang.gitbooks.io/sun-note/content/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/eV5D",
-		"url_en": "https://fei.ai/eV5D"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "维新工坊 - 与时间做朋友,基于 Java 语言构建区块链",
@@ -1370,11 +1173,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/wangwei.png",
 		"name": "Wang wei",
 		"name_en": "Wang wei",
-		"original_url": "https://wangwei.one/categories/blockchain/",
+		"url": "https://wangwei.one/categories/blockchain/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/hFKI",
-		"url_en": "https://fei.ai/hFKI"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "大家好，我是 Rick，一个后端 Java 开发，热爱学习新技术，自学了 go，node.js，还正在学 Javascript (后面自学的语言都还比较渣，哈哈)。一个孤独的探索者。",
@@ -1383,11 +1184,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tryblockchain.jpeg",
 		"name": "区块链技术博客",
 		"name_en": "区块链技术博客",
-		"original_url": "https://me.tryblockchain.org/",
+		"url": "https://me.tryblockchain.org/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/IEIc",
-		"url_en": "https://fei.ai/IEIc"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "杂论漫谈-未来已来，静待花开",
@@ -1396,11 +1195,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/wjblog.png",
 		"name": "JASON杂论漫谈",
 		"name_en": "JASON杂论漫谈",
-		"original_url": "http://www.wjblog.top/archives/",
+		"url": "http://www.wjblog.top/archives/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/D0Es",
-		"url_en": "https://fei.ai/D0Es"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Enthuse about FP, DLT.",
@@ -1409,11 +1206,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/kaichao.jpeg",
 		"name": "Kaichao Sun",
 		"name_en": "Kaichao Sun",
-		"original_url": "https://whisperd.tech/",
+		"url": "https://whisperd.tech/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/lyWU",
-		"url_en": "https://fei.ai/lyWU"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "聊聊区块链、大数据",
@@ -1422,11 +1217,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jouypub.jpeg",
 		"name": "Jouypub",
 		"name_en": "Jouypub",
-		"original_url": "http://www.jouypub.com/",
+		"url": "http://www.jouypub.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/3Va0",
-		"url_en": "https://fei.ai/3Va0"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "陈东泽（Eurychen）| 东泽煮粥 - 所见所闻所学所想，煮成一锅粥",
@@ -1435,11 +1228,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/eurychen.png",
 		"name": "东泽煮粥",
 		"name_en": "东泽煮粥",
-		"original_url": "https://eurychen.me/",
+		"url": "https://eurychen.me/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/xAqc",
-		"url_en": "https://fei.ai/xAqc"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "清源的博客，主要写一些关于区块链的文章，Hyperledger fabric, 联盟链相关。后面会研究一些以太坊相关的技术。",
@@ -1448,11 +1239,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/qyuan.jpeg",
 		"name": "清源",
 		"name_en": "清源",
-		"original_url": "http://qyuan.top/",
+		"url": "http://qyuan.top/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/1O08",
-		"url_en": "https://fei.ai/1O08"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "Blockchain | Programming | Photography | Misty",
@@ -1461,11 +1250,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yuzhang.jpeg",
 		"name": "Yu Zhang",
 		"name_en": "Yu Zhang",
-		"original_url": "https://www.pseudoyu.com/",
+		"url": "https://www.pseudoyu.com/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/LMy6",
-		"url_en": "https://fei.ai/LMy6"
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"desc": "我是挺肥,目前是一名区块链开发工程师, 工作和生活在上海. 主力开发语言是 Rust, 目前努力的方向是区块链底层, 但也希望自己具备一些全栈开发的经验以及能力, 所以 js/ts 也是我之后会着重把握的东西.",
@@ -1474,11 +1261,20 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tingfei.jpeg",
 		"name": "Fat Blog",
 		"name_en": "Fat Blog",
-		"original_url": "https://tingfei.space/",
+		"url": "https://tingfei.space/",
 		"tag": "Web3/博客",
-		"tag_en": "Web3-Blog",
-		"url": "https://fei.ai/LbRL",
-		"url_en": "https://fei.ai/LbRL"
+		"tag_en": "Web3-Blog"
+	},
+	{
+		"desc": "陈剑-独立研究员｜开源公益项目 http://metashield.cc",
+		"desc_en": "陈剑-独立研究员｜开源公益项目 http://metashield.cc",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tingfei.jpeg",
+		"name": "Json Chen",
+		"name_en": "Fat Blog",
+		"url": "https://jason.mirror.xyz/",
+		"tag": "Web3/博客",
+		"tag_en": "Web3-Blog"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/Blog」数据-------------------"
@@ -1490,11 +1286,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zhenxiao.jpeg",
 		"name": "区块链技术与应用",
 		"name_en": "区块链技术与应用",
-		"original_url": "https://www.bilibili.com/video/BV1Vt411X7JF",
+		"url": "https://www.bilibili.com/video/BV1Vt411X7JF",
 		"tag": "Web3/视频",
-		"tag_en": "Web3-Video",
-		"url": "https://fei.ai/nKrY",
-		"url_en": "https://fei.ai/nKrY"
+		"tag_en": "Web3-Video"
 	},
 	{
 		"desc": "Fall 2018 Blockchain Fundamentals - Blockchain at Berkeley",
@@ -1503,11 +1297,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/berkeley.png",
 		"name": "区块链协议与共识",
 		"name_en": "区块链协议与共识",
-		"original_url": "https://www.bilibili.com/video/BV1DE411b7pG",
+		"url": "https://www.bilibili.com/video/BV1DE411b7pG",
 		"tag": "Web3/视频",
-		"tag_en": "Web3-Video",
-		"url": "https://fei.ai/VqRn",
-		"url_en": "https://fei.ai/VqRn"
+		"tag_en": "Web3-Video"
 	},
 	{
 		"desc": "尚硅谷的以太坊课程，对以太坊基础理论知识和架构做了系统的梳理和深入的阐述，并对 solidity 和 DApp 的开发做了系统讲解，另外还对以太坊白皮书、黄皮书做了介绍。",
@@ -1516,11 +1308,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sgg.webp",
 		"name": "以太坊核心技术",
 		"name_en": "以太坊核心技术",
-		"original_url": "https://www.bilibili.com/video/BV1NJ411D7rf",
+		"url": "https://www.bilibili.com/video/BV1NJ411D7rf",
 		"tag": "Web3/视频",
-		"tag_en": "Web3-Video",
-		"url": "https://fei.ai/DUsM",
-		"url_en": "https://fei.ai/DUsM"
+		"tag_en": "Web3-Video"
 	},
 	{
 		"desc": "本课程主要是基于以太坊开发投票系统 DApp，在基础投票功能的基础上，增加了基于自定义 token 进行投票的功能；另外还涉及到了以太坊开发框架 truffle 的使用。",
@@ -1529,11 +1319,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sgg.webp",
 		"name": "投票系统",
 		"name_en": "投票系统",
-		"original_url": "https://www.bilibili.com/video/BV1JJ411D7Ve",
+		"url": "https://www.bilibili.com/video/BV1JJ411D7Ve",
 		"tag": "Web3/视频",
-		"tag_en": "Web3-Video",
-		"url": "https://fei.ai/bjaL",
-		"url_en": "https://fei.ai/bjaL"
+		"tag_en": "Web3-Video"
 	},
 	{
 		"desc": "Go语言区块链公链开发理论+实战（学完这个课你就能开发并发行自己的“比特币”）",
@@ -1542,11 +1330,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btc.png",
 		"name": "公链开发理论与实战",
 		"name_en": "公链开发理论与实战",
-		"original_url": "https://www.bilibili.com/video/BV1GJ411Q7ZP",
+		"url": "https://www.bilibili.com/video/BV1GJ411Q7ZP",
 		"tag": "Web3/视频",
-		"tag_en": "Web3-Video",
-		"url": "https://fei.ai/QnSP",
-		"url_en": "https://fei.ai/QnSP"
+		"tag_en": "Web3-Video"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/Video」数据-------------------"
@@ -1558,11 +1344,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bitcointalk.png",
 		"name": "BitcoinTalk",
 		"name_en": "BitcoinTalk",
-		"original_url": "https://bitcointalk.org/index.php",
+		"url": "https://bitcointalk.org/index.php",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/USJa",
-		"url_en": "https://fei.ai/USJa"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Bitcoin is an innovative payment network and a new kind of money.",
@@ -1571,11 +1355,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bitcoin.jpeg",
 		"name": "Bitcoin.org",
 		"name_en": "Bitcoin.org",
-		"original_url": "https://bitcoin.org/en/",
+		"url": "https://bitcoin.org/en/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/8gPE",
-		"url_en": "https://fei.ai/8gPE"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Bitcoin 思想的中文集结地",
@@ -1584,11 +1366,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btc.png",
 		"name": "BTC Study",
 		"name_en": "BTC Study",
-		"original_url": "https://www.btcstudy.org/",
+		"url": "https://www.btcstudy.org/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/iANr",
-		"url_en": "https://fei.ai/iANr"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Bitcoin Is Dead is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!",
@@ -1597,11 +1377,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bitcoinisdead.png",
 		"name": "Bitcoin is Dead",
 		"name_en": "Bitcoin is Dead",
-		"original_url": "https://www.bitcoinisdead.org/",
+		"url": "https://www.bitcoinisdead.org/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/SuUt",
-		"url_en": "https://fei.ai/SuUt"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Welcome to the Bitcoin Wiki,for all your Bitcoin information needs.",
@@ -1610,11 +1388,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bitcoinwiki.jpeg",
 		"name": "Bitcoin wiki",
 		"name_en": "Bitcoin wiki",
-		"original_url": "https://en.bitcoin.it/wiki/Main_Page",
+		"url": "https://en.bitcoin.it/wiki/Main_Page",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/813z",
-		"url_en": "https://fei.ai/813z"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "提供比特币BTC历史价格走势图，比特币历史行情、K线图，比特币历年价格回顾，比特币历史最高价格及最低价格等数据供您参考，您可以将比特币历年价格走势图详细数据免费导出到本地。",
@@ -1623,11 +1399,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btc123.png",
 		"name": "BTC123.fans",
 		"name_en": "BTC123.fans",
-		"original_url": "https://history.btc123.fans/",
+		"url": "https://history.btc123.fans/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/cUt6",
-		"url_en": "https://fei.ai/cUt6"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Blockchain explorer,analytics and web services",
@@ -1636,11 +1410,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blockchair.png",
 		"name": "Blockchair",
 		"name_en": "Blockchair",
-		"original_url": "https://blockchair.com/",
+		"url": "https://blockchair.com/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/g0ev",
-		"url_en": "https://fei.ai/g0ev"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "A weekly club for reviewing Bitcoin Core PRs at 17:00 UTC on Wednesdays in the #bitcoin-core-pr-reviews IRC channel on libera.chat.",
@@ -1649,11 +1421,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bitcoincorereviews.jpeg",
 		"name": "Bitcoin Core PR Review Club",
 		"name_en": "Bitcoin Core PR Review Club",
-		"original_url": "https://bitcoincore.reviews/",
+		"url": "https://bitcoincore.reviews/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/rYxs",
-		"url_en": "https://fei.ai/rYxs"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "A visual demo of the blockchain data structure",
@@ -1662,11 +1432,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blockchaindemo.png",
 		"name": "Visual Blockchain",
 		"name_en": "Visual Blockchain",
-		"original_url": "https://blockchaindemo.io/",
+		"url": "https://blockchaindemo.io/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/eXFl",
-		"url_en": "https://fei.ai/eXFl"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Btcschools is practical oriented tutorial site come with best PHP & Cryptocurrencies Collections.",
@@ -1675,11 +1443,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btcschools.jpeg",
 		"name": "BTCSchools",
 		"name_en": "BTCSchools",
-		"original_url": "https://www.btcschools.net/",
+		"url": "https://www.btcschools.net/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/fWd8",
-		"url_en": "https://fei.ai/fWd8"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"desc": "Bitcoin Rainbow Chart (Live)",
@@ -1688,11 +1454,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blockchaincenter.jpeg",
 		"name": "BTC Rainbow Chart",
 		"name_en": "BTC Rainbow Chart",
-		"original_url": "https://www.blockchaincenter.net/bitcoin-rainbow-chart/",
+		"url": "https://www.blockchaincenter.net/bitcoin-rainbow-chart/",
 		"tag": "Web3/BTC",
-		"tag_en": "Web3-BTC",
-		"url": "https://fei.ai/GuXf",
-		"url_en": "https://fei.ai/GuXf"
+		"tag_en": "Web3-BTC"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/BTC」数据-------------------"
@@ -1704,11 +1468,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ethereum.png",
 		"name": "GO-Ethereum",
 		"name_en": "GO-Ethereum",
-		"original_url": "https://github.com/ethereum",
+		"url": "https://github.com/ethereum",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/JFi1",
-		"url_en": "https://fei.ai/JFi1"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "本页为以太坊开发者提供相关文档、教程以及工具。",
@@ -1717,11 +1479,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/eth.png",
 		"name": "以太坊开发者文档",
 		"name_en": "以太坊开发者文档",
-		"original_url": "https://ethereum.org/zh/developers/",
+		"url": "https://ethereum.org/zh/developers/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/U1Hb",
-		"url_en": "https://fei.ai/U1Hb"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Devcon is the Ethereum conference for developers, researchers, thinkers, and makers.",
@@ -1730,11 +1490,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/devconf.jpeg",
 		"name": "DevConf",
 		"name_en": "DevConf",
-		"original_url": "https://archive.devcon.org/archive/",
+		"url": "https://archive.devcon.org/archive/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/BU50",
-		"url_en": "https://fei.ai/BU50"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "以太坊基金会整理了一系列有用的资源和建议，用于帮助新人更有效、系统地学习以太坊相关知识、参与以太坊社区贡献，甚至，如果你愿意的话，还可以在这里找到在以太坊生态中工作的机会。🏄\u200d♀️",
@@ -1743,11 +1501,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/eth2.jpg",
 		"name": "以太坊入门指南",
 		"name_en": "以太坊入门指南",
-		"original_url": "https://rielychen.notion.site/rielychen/003d98feefb741cabe09a3bb3f15706e/",
+		"url": "https://rielychen.notion.site/rielychen/003d98feefb741cabe09a3bb3f15706e/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/bEHL",
-		"url_en": "https://fei.ai/bEHL"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Kauri was an open, Web3 based platform, created with the goal to foster the spread of Ethereum development knowledge far and wide.",
@@ -1756,11 +1512,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/kauri.png",
 		"name": "Kauri.io",
 		"name_en": "Kauri.io",
-		"original_url": "https://kauri.io/#",
+		"url": "https://kauri.io/#",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/ex2y",
-		"url_en": "https://fei.ai/ex2y"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Etherscan allows you to explore and search the Ethereum blockchain for transactions, addresses, tokens, prices and other activities taking place on Ethereum (ETH)",
@@ -1769,11 +1523,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/etherscan.jpeg",
 		"name": "EtherScan",
 		"name_en": "EtherScan",
-		"original_url": "https://etherscan.io/",
+		"url": "https://etherscan.io/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/J2hZ",
-		"url_en": "https://fei.ai/J2hZ"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Ethereum Network Status",
@@ -1782,11 +1534,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ethstats.png",
 		"name": "Eth Status",
 		"name_en": "Eth Status",
-		"original_url": "https://ethstats.net/",
+		"url": "https://ethstats.net/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/mUcT",
-		"url_en": "https://fei.ai/mUcT"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "ETHGasStation is the industry-leading Ethereum gas price estimator. See our site for the current recommended gas prices. ",
@@ -1795,11 +1545,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ethgas.jpeg",
 		"name": "ETH Gas Station",
 		"name_en": "ETH Gas Station",
-		"original_url": "https://ethgasstation.info/",
+		"url": "https://ethgasstation.info/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/Hi73",
-		"url_en": "https://fei.ai/Hi73"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Remix - Ethereum IDE",
@@ -1808,11 +1556,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/remix.webp",
 		"name": "Remix",
 		"name_en": "Remix",
-		"original_url": "https://remix.ethereum.org/",
+		"url": "https://remix.ethereum.org/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/5xpR",
-		"url_en": "https://fei.ai/5xpR"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.",
@@ -1821,11 +1567,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cryptozombies.png",
 		"name": "Crypto Zombies",
 		"name_en": "Crypto Zombies",
-		"original_url": "https://cryptozombies.io/",
+		"url": "https://cryptozombies.io/",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/yEnv",
-		"url_en": "https://fei.ai/yEnv"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"desc": "Educational sandbox for prototyping Web3. Learn Ethereum visually with drag-and-drop programming.",
@@ -1834,11 +1578,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ethbuild.jpeg",
 		"name": "ETH.build",
 		"name_en": "ETH.build",
-		"original_url": "https://eth.build",
+		"url": "https://eth.build",
 		"tag": "Web3/ETH",
-		"tag_en": "Web3-ETH",
-		"url": "https://fei.ai/96xN",
-		"url_en": "https://fei.ai/96xN"
+		"tag_en": "Web3-ETH"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「Web3/ETH」数据-------------------"
@@ -1850,11 +1592,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mf.jpeg",
 		"name": "Martin Fowler",
 		"name_en": "Martin Fowler",
-		"original_url": "https://martinfowler.com/",
+		"url": "https://martinfowler.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/nUOy",
-		"url_en": "https://fei.ai/nUOy"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "All Things Distributed - Werner Vogels on building scalabale and robust distributed systems",
@@ -1863,11 +1603,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/allthingsdistributed.jpeg",
 		"name": "WERNER VOGELS",
 		"name_en": "WERNER VOGELS",
-		"original_url": "https://www.allthingsdistributed.com/",
+		"url": "https://www.allthingsdistributed.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/trvG",
-		"url_en": "https://fei.ai/trvG"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "I am a researcher at the University of Cambridge, working on the TRVE DATA project at the intersection of databases, distributed systems, and information security.",
@@ -1876,11 +1614,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/martin-kleppmann.jpeg",
 		"name": "Martin Kleppmann",
 		"name_en": "Martin Kleppmann",
-		"original_url": "https://martin.kleppmann.com/",
+		"url": "https://martin.kleppmann.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/qeto",
-		"url_en": "https://fei.ai/qeto"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "I’m your host, Joel Spolsky, responsible for just about everything on this site.",
@@ -1889,11 +1625,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/joel.webp",
 		"name": "Joel Spolsky",
 		"name_en": "Joel Spolsky",
-		"original_url": "https://www.joelonsoftware.com/",
+		"url": "https://www.joelonsoftware.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/PuVh",
-		"url_en": "https://fei.ai/PuVh"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "蔡學鏞，清華大學資訊工程碩士。從小學（1983 年）開始學程式設計至今。寫過與翻譯過數本技術暢銷書，經常擔任技術研討會嘉賓。曾任中國平安保險、中國銀聯、阿里巴巴支付寶、申萬宏源證券、創新工場的架構師、首席架構師、首席佈道師。",
@@ -1902,11 +1636,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/caixueyong.jpeg",
 		"name": "蔡學鏞",
 		"name_en": "蔡學鏞",
-		"original_url": "https://www.ithome.com.tw/users/%E8%94%A1%E5%AD%B8%E9%8F%9E",
+		"url": "https://www.ithome.com.tw/users/%E8%94%A1%E5%AD%B8%E9%8F%9E",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/8J8j",
-		"url_en": "https://fei.ai/8J8j"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "编程 &#8211; 刘未鹏 | Mind Hacks",
@@ -1915,11 +1647,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mindhack.jpeg",
 		"name": "刘未鹏",
 		"name_en": "刘未鹏",
-		"original_url": "http://mindhacks.cn/",
+		"url": "http://mindhacks.cn/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/i3Oo",
-		"url_en": "https://fei.ai/i3Oo"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "Software architecture for developers",
@@ -1928,11 +1658,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/codingthearch.png",
 		"name": "Coding the Arch",
 		"name_en": "Coding the Arch",
-		"original_url": "http://codingthearchitecture.com/",
+		"url": "http://codingthearchitecture.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/djh6",
-		"url_en": "https://fei.ai/djh6"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "Design Patterns、Anti-patterns、Refactoring、UML",
@@ -1941,11 +1669,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sourcemaking.png",
 		"name": "Design Patterns",
 		"name_en": "Design Patterns",
-		"original_url": "https://sourcemaking.com/design-patterns-and-tips",
+		"url": "https://sourcemaking.com/design-patterns-and-tips",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/WGeA",
-		"url_en": "https://fei.ai/WGeA"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "我是池建强，因为 2012 年开始写公众号 MacTalk，大家会叫我卖桃者，算是个谐音梗。更多人叫我池老师，这个可能是因为我岁数大，也可能是我和两位罗老师的交集导致的。",
@@ -1954,11 +1680,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mactalk.png",
 		"name": "MacTalk",
 		"name_en": "MacTalk",
-		"original_url": "http://macshuo.com/",
+		"url": "http://macshuo.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/OXFB",
-		"url_en": "https://fei.ai/OXFB"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，主理人 [少楠（Plidezus）](https://mp.weixin.qq.com/s/Pj4VHdUQNYMqRAQ9uX5-jA) 和 fonter。累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。",
@@ -1967,11 +1691,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/shaonan.png",
 		"name": "产品沉思录",
 		"name_en": "产品沉思录",
-		"original_url": "https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27",
+		"url": "https://www.notion.so/ProductThinking-a601a12335044f349a22caf57f274c27",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/E7QR",
-		"url_en": "https://fei.ai/E7QR"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "如果在撒哈拉沙漠实行【计划经济】，连沙子都会短缺！—— 路德维希。冯。米塞斯 （经济学家 哲学思想家）",
@@ -1980,11 +1702,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/pthink.jpeg",
 		"name": "编程随想的博客",
 		"name_en": "编程随想的博客",
-		"original_url": "https://program-think.blogspot.com/",
+		"url": "https://program-think.blogspot.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/w4C5",
-		"url_en": "https://fei.ai/w4C5"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "Thoughtworks洞见",
@@ -1993,11 +1713,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/thoughtworks.jpeg",
 		"name": "Thoughtworks洞见",
 		"name_en": "Thoughtworks洞见",
-		"original_url": "http://insights.thoughtworkers.org/",
+		"url": "http://insights.thoughtworkers.org/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/S4ck",
-		"url_en": "https://fei.ai/S4ck"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "Building bigger, faster, more reliable websites.",
@@ -2006,11 +1724,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/highscalability.jpeg",
 		"name": "High Scalability",
 		"name_en": "High Scalability",
-		"original_url": "http://highscalability.com/",
+		"url": "http://highscalability.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/i3Lb",
-		"url_en": "https://fei.ai/i3Lb"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "您好，我是古思为。我是一个在上海的软件工程师，我在 vesoft 担任 Nebula Graph（开源的分布式图数据库）的社区开发者布道师。 我的工作是通过围绕 Nebula Graph Database 创作",
@@ -2019,11 +1735,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/siwei.png",
 		"name": "思为说",
 		"name_en": "思为说",
-		"original_url": "https://siwei.io/",
+		"url": "https://siwei.io/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/a4zZ",
-		"url_en": "https://fei.ai/a4zZ"
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"desc": "笨方法学写作|这一次彻底学会写作",
@@ -2032,11 +1746,20 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cnfeat.png",
 		"name": "笨方法学写作",
 		"name_en": "笨方法学写作",
-		"original_url": "https://www.cnfeat.com/",
+		"url": "https://www.cnfeat.com/",
 		"tag": "技术/人文",
-		"tag_en": "CS-Arch-Product",
-		"url": "https://fei.ai/0xuR",
-		"url_en": "https://fei.ai/0xuR"
+		"tag_en": "CS-Arch-Product"
+	},
+	{
+		"desc": "一个平庸的交互设计师，庆幸的是好奇心很足，折腾来八卦去，攒了一些搬砖后谈资",
+		"desc_en": "一个平庸的交互设计师，庆幸的是好奇心很足，折腾来八卦去，攒了一些搬砖后谈资",
+		"image": "",
+		"logo": "https://pic.ftium4.com/mylogo2022.png",
+		"name": "龙爪槐守望者",
+		"name_en": "龙爪槐守望者",
+		"url": "https://www.ftium4.com/",
+		"tag": "技术/人文",
+		"tag_en": "CS-Arch-Product"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/人文」数据-------------------"
@@ -2048,11 +1771,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/coolshell_logo.png",
 		"name": "酷 壳 – CoolShell",
 		"name_en": "酷 壳 – CoolShell",
-		"original_url": "http://coolshell.cn/",
+		"url": "http://coolshell.cn/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/SMy3",
-		"url_en": "https://fei.ai/SMy3"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Aleksey is working on Java performance for 10+ years.",
@@ -2061,11 +1782,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/redhat-joker-sm.jpeg",
 		"name": "Aleksey@RedHat",
 		"name_en": "Aleksey@RedHat",
-		"original_url": "https://shipilev.net/",
+		"url": "https://shipilev.net/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/33gD",
-		"url_en": "https://fei.ai/33gD"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Netflix-TechBlog",
@@ -2074,11 +1793,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/netflix.jpeg",
 		"name": "Netflix-TechBlog",
 		"name_en": "Netflix-TechBlog",
-		"original_url": "https://medium.com/netflix-techblog",
+		"url": "https://medium.com/netflix-techblog",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/61Mi",
-		"url_en": "https://fei.ai/61Mi"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "The Morning Paper: short summaries of important, influential, topical or otherwise interesting papers in the field of computer science.",
@@ -2087,11 +1804,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/morningpaper.jpeg",
 		"name": "Morning Paper",
 		"name_en": "Morning Paper",
-		"original_url": "https://blog.acolyer.org/",
+		"url": "https://blog.acolyer.org/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/1xce",
-		"url_en": "https://fei.ai/1xce"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Axb的自我修养 - @蛋疼的axb",
@@ -2100,11 +1815,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/axb.jpeg",
 		"name": "Axb的自我修养",
 		"name_en": "Axb的自我修养",
-		"original_url": "http://blog.2baxb.me/",
+		"url": "http://blog.2baxb.me/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/X6iZ",
-		"url_en": "https://fei.ai/X6iZ"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "熊燚，笔名四火，现于西雅图 Oracle 任首席软件工程师一职，负责研发云基础设施的分布式工作流引擎。",
@@ -2113,11 +1826,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sihuo.jpeg",
 		"name": "四火的唠叨",
 		"name_en": "四火的唠叨",
-		"original_url": "http://www.raychase.net/",
+		"url": "http://www.raychase.net/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/OjSL",
-		"url_en": "https://fei.ai/OjSL"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "现任禧云信息 CTO。曾任窝窝团研发副总裁。曾任玩聚网创始人和 CEO。历任明天高软、神州泰岳等公司的技术总监。中国语义应用探索者。",
@@ -2126,11 +1837,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zhengyun.jpeg",
 		"name": "旁观者",
 		"name_en": "旁观者",
-		"original_url": "http://www.cnblogs.com/zhengyun_ustc/",
+		"url": "http://www.cnblogs.com/zhengyun_ustc/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/uOcn",
-		"url_en": "https://fei.ai/uOcn"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "跟上 Java 主流、分享交流、参与开源项目",
@@ -2139,11 +1848,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/greenjava.png",
 		"name": "绿茶 Java 用户组",
 		"name_en": "绿茶 Java 用户组",
-		"original_url": "http://greenteajug.cn/",
+		"url": "http://greenteajug.cn/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/dm4I",
-		"url_en": "https://fei.ai/dm4I"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "黄健宏（huangz）， IT 技术图书作者和译者。 男， 1990 年出生， 现居广东清远。",
@@ -2152,11 +1859,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/huangz.jpeg",
 		"name": "黄健宏",
 		"name_en": "黄健宏",
-		"original_url": "http://huangz.me/",
+		"url": "http://huangz.me/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/IDUv",
-		"url_en": "https://fei.ai/IDUv"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "并发编程网 &#8211; ifeve.com | 让天下没有难学的技术",
@@ -2165,11 +1870,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ifeve.jpeg",
 		"name": "并发编程网",
 		"name_en": "并发编程网",
-		"original_url": "http://ifeve.com/",
+		"url": "http://ifeve.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/uIsw",
-		"url_en": "https://fei.ai/uIsw"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "云风 - coder ( c , lua , open source )",
@@ -2178,11 +1881,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/cloudwu.jpeg",
 		"name": "云风",
 		"name_en": "云风",
-		"original_url": "http://blog.codingnow.com/",
+		"url": "http://blog.codingnow.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/AB1Y",
-		"url_en": "https://fei.ai/AB1Y"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "P.ROGRAM.ME - Hi, This is Hatter Jiang's Programming Site.",
@@ -2191,11 +1892,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/programme.jpeg",
 		"name": "P.ROGRAM.ME",
 		"name_en": "P.ROGRAM.ME",
-		"original_url": "https://p.rogram.me/",
+		"url": "https://p.rogram.me/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/LKr0",
-		"url_en": "https://fei.ai/LKr0"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "美团是中国领先的生活服务电子商务平台，秉承 “帮大家吃得更好，生活更好” 的使命，我们的业务覆盖了超过 200 个品类和 2800 个城区县网络，在餐饮、外卖、酒店旅游、丽人、家庭、休闲娱乐等领域具有领先的市场地位。",
@@ -2204,11 +1903,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/meituan.png",
 		"name": "美团点评技术团队",
 		"name_en": "美团点评技术团队",
-		"original_url": "http://tech.meituan.com/",
+		"url": "http://tech.meituan.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/kFbL",
-		"url_en": "https://fei.ai/kFbL"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "个人简介：关注互联网架构方向（推荐聊聊高并发文章）",
@@ -2217,11 +1914,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/java.png",
 		"name": "iter_zc",
 		"name_en": "iter_zc",
-		"original_url": "https://blog.csdn.net/iter_zc",
+		"url": "https://blog.csdn.net/iter_zc",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/bWAB",
-		"url_en": "https://fei.ai/bWAB"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "「技术分享」某种程度上，是让作者和读者，不那么孤独的东西。「Kirito 的技术分享」致力于探讨 Java 生态的知识点，内容覆盖分布式服务治理，微服务，性能调优，各类源码分析。追求有深度并兼具表达力的文字。",
@@ -2230,11 +1925,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xujingfeng.png",
 		"name": "徐靖峰",
 		"name_en": "徐靖峰",
-		"original_url": "https://www.cnkirito.moe/",
+		"url": "https://www.cnkirito.moe/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/oiSE",
-		"url_en": "https://fei.ai/oiSE"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "宋净超（Jimmy Song），Tetrate 布道师，CNCF Ambassador，云原生社区 及 ServiceMesher 创始人，前蚂蚁集团 云原生布道师及开源管理负责人，独立撰稿人，摄影师。",
@@ -2243,11 +1936,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jimmy.png",
 		"name": "Jimmysong-云原生",
 		"name_en": "Jimmysong-云原生",
-		"original_url": "https://jimmysong.io",
+		"url": "https://jimmysong.io",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/mbbw",
-		"url_en": "https://fei.ai/mbbw"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "吴祖洋的技术博客 - 分布式数据库，高性能 Web 和网络应用开发，架构设计，移动应用开发",
@@ -2256,11 +1947,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ideawu.png",
 		"name": "吴祖洋的技术博客",
 		"name_en": "吴祖洋的技术博客",
-		"original_url": "https://www.ideawu.net/",
+		"url": "https://www.ideawu.net/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/J3qj",
-		"url_en": "https://fei.ai/J3qj"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "张炎泼",
@@ -2269,11 +1958,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/openacid.png",
 		"name": "张炎泼",
 		"name_en": "张炎泼",
-		"original_url": "https://drmingdrmer.github.io/",
+		"url": "https://drmingdrmer.github.io/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/pyjk",
-		"url_en": "https://fei.ai/pyjk"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Daniel Wu - 分布式系统一致性的发展历史",
@@ -2282,11 +1969,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/danielwu.jpeg",
 		"name": "Daniel Wu",
 		"name_en": "Daniel Wu",
-		"original_url": "https://danielw.cn/",
+		"url": "https://danielw.cn/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/JzgD",
-		"url_en": "https://fei.ai/JzgD"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "木鸟杂记 - 分布式系统，程序语言，算法设计",
@@ -2295,11 +1980,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/muniao.jpeg",
 		"name": "木鸟杂记",
 		"name_en": "木鸟杂记",
-		"original_url": "https://www.qtmuniao.com/",
+		"url": "https://www.qtmuniao.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/yWgk",
-		"url_en": "https://fei.ai/yWgk"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "毕业于南京大学计算机系，目前是帝都码农一枚，从事分布式数据库的开发工作。",
@@ -2308,11 +1991,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/kongfy.png",
 		"name": "Kongfy's Blog",
 		"name_en": "Kongfy's Blog",
-		"original_url": "http://blog.kongfy.com/",
+		"url": "http://blog.kongfy.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/G0dz",
-		"url_en": "https://fei.ai/G0dz"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "本站作为个人博客，主要是记录在软件开发、音视频、图像渲染方面的积累，也会分享一些日常生活中有趣的事情。",
@@ -2321,11 +2002,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/glumes.jpeg",
 		"name": "音视频开发进阶",
 		"name_en": "音视频开发进阶",
-		"original_url": "https://glumes.com/",
+		"url": "https://glumes.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/mejG",
-		"url_en": "https://fei.ai/mejG"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "The golang.design Initiative",
@@ -2334,11 +2013,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/golangdesign.svg",
 		"name": "Golang.Design",
 		"name_en": "Golang.Design",
-		"original_url": "https://golang.design",
+		"url": "https://golang.design",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/wzi5",
-		"url_en": "https://fei.ai/wzi5"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "曹大 - If you don&#x27;t keep moving, you&#x27;ll quickly fall behind.",
@@ -2347,11 +2024,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/caoda.jpeg",
 		"name": "曹大",
 		"name_en": "曹大",
-		"original_url": "https://xargin.com/",
+		"url": "https://xargin.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/O8jD",
-		"url_en": "https://fei.ai/O8jD"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Jolestar - 技术上倾向于开源运动 政治上倾向于自由主义.西北王氏，自幼放羊，排行老五，自称放羊娃王老五",
@@ -2360,11 +2035,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jolestar.jpeg",
 		"name": "Jolestar",
 		"name_en": "Jolestar",
-		"original_url": "http://jolestar.com/",
+		"url": "http://jolestar.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/IIZ7",
-		"url_en": "https://fei.ai/IIZ7"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "无闻的小站 -抛弃世俗之浮躁，留我钻研之刻苦",
@@ -2373,11 +2046,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/unknwon.png",
 		"name": "无闻",
 		"name_en": "无闻",
-		"original_url": "https://unknwon.cn/",
+		"url": "https://unknwon.cn/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/P3b8",
-		"url_en": "https://fei.ai/P3b8"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Draven's Blog - 面向信仰编程",
@@ -2386,11 +2057,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/draven.png",
 		"name": "draveness",
 		"name_en": "draveness",
-		"original_url": "https://draveness.me/",
+		"url": "https://draveness.me/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/iiul",
-		"url_en": "https://fei.ai/iiul"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "峰云就她了 - 专注于 GOLANG、PYTHON、DB、CLUSTER",
@@ -2399,11 +2068,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xiaorui.jpeg",
 		"name": "峰云就她了",
 		"name_en": "峰云就她了",
-		"original_url": "http://xiaorui.cc/",
+		"url": "http://xiaorui.cc/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/HsUa",
-		"url_en": "https://fei.ai/HsUa"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Researcher. HCI/CG/ML/PL. Trouble Maker. | https://changkun.de",
@@ -2412,11 +2079,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/changkun.png",
 		"name": "欧长坤",
 		"name_en": "欧长坤",
-		"original_url": "https://blog.changkun.de/",
+		"url": "https://blog.changkun.de/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/J53x",
-		"url_en": "https://fei.ai/J53x"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "煎鱼,博客,go,golang,源码分析,系列教程",
@@ -2425,11 +2090,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/eddycjy.jpeg",
 		"name": "煎鱼",
 		"name_en": "煎鱼",
-		"original_url": "https://eddycjy.com/",
+		"url": "https://eddycjy.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/CKXh",
-		"url_en": "https://fei.ai/CKXh"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "饶全成 - 专注于 Go 语言 (golang)、后端架构、个人成长",
@@ -2438,11 +2101,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/raoquancheng.jpeg",
 		"name": "码农桃花源",
 		"name_en": "码农桃花源",
-		"original_url": "https://qcrao.com/",
+		"url": "https://qcrao.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/Fp0o",
-		"url_en": "https://fei.ai/Fp0o"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "极客兔兔的博客，致力于分享一些技术教程和有趣的技术实践，包括但不限于 Go 语言/golang, Python, tensorflow, 分布式, 机器学习相关的内容。也可以通过搜索极客小站,jiketutu 找到我。",
@@ -2451,11 +2112,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/geektutu.png",
 		"name": "Geektutu",
 		"name_en": "Geektutu",
-		"original_url": "https://geektutu.com/",
+		"url": "https://geektutu.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/NOAL",
-		"url_en": "https://fei.ai/NOAL"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "万物之始，大道至简，衍化至繁",
@@ -2464,11 +2123,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/niaowo.png",
 		"name": "鸟窝",
 		"name_en": "鸟窝",
-		"original_url": "http://colobu.com/",
+		"url": "http://colobu.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/BY8A",
-		"url_en": "https://fei.ai/BY8A"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "TonyBai - 一个程序员的心路历程:Go 程序员，C 程序员，技术架构师，技术总监，技术讲师 / 培训师，技术撰稿人。先后供职于国内某大型软件公司和某创业型数据与基础设施服务公司。喜技术，爱钻研；热爱开源，曾先后贡献了 lcut、cbehave、buildc 多个工具框架；喜好写博客，写博十余年，仍孜孜不倦。",
@@ -2477,11 +2134,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tonybai.jpeg",
 		"name": "Tony Bai",
 		"name_en": "Tony Bai",
-		"original_url": "https://tonybai.com/",
+		"url": "https://tonybai.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/Dqd7",
-		"url_en": "https://fei.ai/Dqd7"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "飞雪 -《Go 实战笔记》系列作者，《Golang Gin 实战》系列作者，《Android Gradle 权威指南》作者，现负责技术管理",
@@ -2490,11 +2145,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/flysnow.jpg",
 		"name": "飞雪",
 		"name_en": "飞雪",
-		"original_url": "https://www.flysnow.org/",
+		"url": "https://www.flysnow.org/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/QLMx",
-		"url_en": "https://fei.ai/QLMx"
+		"tag_en": "CS-Backend"
 	},
 	{
 		"desc": "Phodal Huang is a geek, creator and author, like to create and share in the real world & virtual world.He like to share software development experiences to help people build better software systems. He has written three books on software development, there are Frontend Architecture: from Basic to Micro-Frontend, Design IoT System and Growth: Thinking in Full Stack. He also was a reviewer of seven books on IoT and frontend development.",
@@ -2503,11 +2156,20 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/phodal.jpeg",
 		"name": "Phodal Huang",
 		"name_en": "Phodal Huang",
-		"original_url": "https://www.phodal.com/",
+		"url": "https://www.phodal.com/",
 		"tag": "技术/后端",
-		"tag_en": "CS-Backend",
-		"url": "https://fei.ai/K5j8",
-		"url_en": "https://fei.ai/K5j8"
+		"tag_en": "CS-Backend"
+	},
+	{
+		"desc": "java tcp mysql performance network docker Linux",
+		"desc_en": "java tcp mysql performance network docker Linux",
+		"image": "",
+		"logo": "https://avatars.githubusercontent.com/u/478304?v=4",
+		"name": "plantegg",
+		"name_en": "plantegg",
+		"url": "https://plantegg.github.io/",
+		"tag": "技术/后端",
+		"tag_en": "CS-Backend"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/后端」数据-------------------"
@@ -2519,11 +2181,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tangqiao.jpeg",
 		"name": "唐巧",
 		"name_en": "唐巧",
-		"original_url": "https://blog.devtang.com/",
+		"url": "https://blog.devtang.com/",
 		"tag": "技术/前端",
-		"tag_en": "CS-Frontend",
-		"url": "https://fei.ai/74ib",
-		"url_en": "https://fei.ai/74ib"
+		"tag_en": "CS-Frontend"
 	},
 	{
 		"desc": "I am a Bachelor of Engineering, graduated from HuaZhong University Of Science and Technology, and now am employed by Alibaba in HangZhou.",
@@ -2532,11 +2192,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/barretlee.png",
 		"name": "小胡子哥",
 		"name_en": "小胡子哥",
-		"original_url": "http://www.barretlee.com/",
+		"url": "http://www.barretlee.com/",
 		"tag": "技术/前端",
-		"tag_en": "CS-Frontend",
-		"url": "https://fei.ai/Fc4q",
-		"url_en": "https://fei.ai/Fc4q"
+		"tag_en": "CS-Frontend"
 	},
 	{
 		"desc": "张鑫旭的个人博客首页，张鑫旭的技术作品，张鑫旭的生活成长",
@@ -2545,11 +2203,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zhangxinxu.jpeg",
 		"name": "张鑫旭",
 		"name_en": "张鑫旭",
-		"original_url": "http://www.zhangxinxu.com/",
+		"url": "http://www.zhangxinxu.com/",
 		"tag": "技术/前端",
-		"tag_en": "CS-Frontend",
-		"url": "https://fei.ai/lANH",
-		"url_en": "https://fei.ai/lANH"
+		"tag_en": "CS-Frontend"
 	},
 	{
 		"desc": "图拉鼎（TualatriX）的个人主页，分享围绕着独立产品开发、iOS 开发、Web 开发等心路历程。",
@@ -2558,11 +2214,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/imtx.jpeg",
 		"name": "图拉鼎",
 		"name_en": "图拉鼎",
-		"original_url": "https://imtx.me/",
+		"url": "https://imtx.me/",
 		"tag": "技术/前端",
-		"tag_en": "CS-Frontend",
-		"url": "https://fei.ai/e2XH",
-		"url_en": "https://fei.ai/e2XH"
+		"tag_en": "CS-Frontend"
 	},
 	{
 		"desc": "我是王巍 (onevcat)，一名开发者，现在专注于 iOS 和 Swift 方向。简历中选取了我的部分项目和演讲内容，如果想要联系我，请优先使用邮件方式。",
@@ -2571,11 +2225,20 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/onevcat.jpeg",
 		"name": "OneV'sDen",
 		"name_en": "OneV'sDen",
-		"original_url": "https://onevcat.com/#blog",
+		"url": "https://onevcat.com/#blog",
 		"tag": "技术/前端",
-		"tag_en": "CS-Frontend",
-		"url": "https://fei.ai/Z5Or",
-		"url_en": "https://fei.ai/Z5Or"
+		"tag_en": "CS-Frontend"
+	},
+	{
+		"desc": "善存于心，世界和平。",
+		"desc_en": "善存于心，世界和平。",
+		"image": "",
+		"logo": "https://daimajia.com/wp-content/uploads/2017/02/cropped-ms-icon-310x310-192x192.png",
+		"name": "代码家",
+		"name_en": "代码家",
+		"url": "https://daimajia.com",
+		"tag": "技术/前端",
+		"tag_en": "CS-Frontend"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/前端」数据-------------------"
@@ -2589,8 +2252,7 @@
 		"name_en": "安全维基",
 		"tag": "技术/安全",
 		"tag_en": "CS-Security",
-		"url": "https://www.sec-wiki.com/skill/index?navisec",
-		"url_en": "https://www.sec-wiki.com/skill/index?navisec"
+		"url": "https://www.sec-wiki.com/skill/index?navisec"
 	},
 	{
 		"desc": "更好更安全的互联网",
@@ -2599,11 +2261,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zhidaochuangyu.jpeg",
 		"name": "知道创宇",
 		"name_en": "知道创宇",
-		"original_url": "http://blog.knownsec.com/",
+		"url": "http://blog.knownsec.com/",
 		"tag": "技术/安全",
-		"tag_en": "CS-Security",
-		"url": "https://fei.ai/rY7b",
-		"url_en": "https://fei.ai/rY7b"
+		"tag_en": "CS-Security"
 	},
 	{
 		"desc": "退役职业 CTF 电竞选手🐴 🐴 🐴",
@@ -2612,11 +2272,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/lorexxar.jpeg",
 		"name": "LoRexxar",
 		"name_en": "LoRexxar",
-		"original_url": "https://lorexxar.cn/",
+		"url": "https://lorexxar.cn/",
 		"tag": "技术/安全",
-		"tag_en": "CS-Security",
-		"url": "https://fei.ai/JVe5",
-		"url_en": "https://fei.ai/JVe5"
+		"tag_en": "CS-Security"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/安全」数据-------------------"
@@ -2628,11 +2286,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/arxiv.jpeg",
 		"name": "ARXIV",
 		"name_en": "ARXIV",
-		"original_url": "https://arxiv.org/",
+		"url": "https://arxiv.org/",
 		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/mKIo",
-		"url_en": "https://fei.ai/mKIo"
+		"tag_en": "CS-AI"
 	},
 	{
 		"desc": "ai-start : 本网站是一个公益性网站，致力于人工智能（AI）方面的课程的翻译、笔记分享等。",
@@ -2641,11 +2297,8 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/aistart.jpeg",
 		"name": "机器学习初学者",
 		"name_en": "机器学习初学者",
-		"original_url": "http://www.ai-start.com/",
-		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/Pxtj",
-		"url_en": "https://fei.ai/Pxtj"
+		"url": "http://www.ai-start.com/",
+		"tag_en": "CS-AI"
 	},
 	{
 		"desc": "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.",
@@ -2654,11 +2307,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/openai.jpeg",
 		"name": "OpenAI",
 		"name_en": "OpenAI",
-		"original_url": "https://openai.com/progress/",
+		"url": "https://openai.com/progress/",
 		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/bUC2",
-		"url_en": "https://fei.ai/bUC2"
+		"tag_en": "CS-AI"
 	},
 	{
 		"desc": "码农场-自然语言处理、机器学习算法",
@@ -2667,11 +2318,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/hackcs.png",
 		"name": "码农场",
 		"name_en": "码农场",
-		"original_url": "http://www.hankcs.com/",
+		"url": "http://www.hankcs.com/",
 		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/Jopk",
-		"url_en": "https://fei.ai/Jopk"
+		"tag_en": "CS-AI"
 	},
 	{
 		"desc": "Best Paper Awards in Computer Science",
@@ -2680,11 +2329,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/bestpaper.jpeg",
 		"name": "Best Paper",
 		"name_en": "Best Paper",
-		"original_url": "https://jeffhuang.com/best_paper_awards/",
+		"url": "https://jeffhuang.com/best_paper_awards/",
 		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/gQiq",
-		"url_en": "https://fei.ai/gQiq"
+		"tag_en": "CS-AI"
 	},
 	{
 		"desc": "There are many great sources of information on AI. Here are some good places to start:Links and News",
@@ -2693,11 +2340,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/berkeleyai.jpeg",
 		"name": "Artificial Intelligence Resources",
 		"name_en": "Artificial Intelligence Resources",
-		"original_url": "http://aima.cs.berkeley.edu/books.html",
+		"url": "http://aima.cs.berkeley.edu/books.html",
 		"tag": "技术/人工智能",
-		"tag_en": "CS-AI",
-		"url": "https://fei.ai/YGpb",
-		"url_en": "https://fei.ai/YGpb"
+		"tag_en": "CS-AI"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/人工智能」数据-------------------"
@@ -2709,11 +2354,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/m67.png",
 		"name": "Matrix67",
 		"name_en": "Matrix67",
-		"original_url": "http://www.matrix67.com/blog/",
+		"url": "http://www.matrix67.com/blog/",
 		"tag": "技术/算法",
-		"tag_en": "CS-Algorithm",
-		"url": "https://fei.ai/5r1G",
-		"url_en": "https://fei.ai/5r1G"
+		"tag_en": "CS-Algorithm"
 	},
 	{
 		"desc": "数据结构可视化 - The best way to understand complex data structures is to see them in action.",
@@ -2722,11 +2365,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/usf.png",
 		"name": "数据结构可视化",
 		"name_en": "数据结构可视化",
-		"original_url": "https://www.cs.usfca.edu/~galles/visualization/",
+		"url": "https://www.cs.usfca.edu/~galles/visualization/",
 		"tag": "技术/算法",
-		"tag_en": "CS-Algorithm",
-		"url": "https://fei.ai/nCrJ",
-		"url_en": "https://fei.ai/nCrJ"
+		"tag_en": "CS-Algorithm"
 	},
 	{
 		"desc": "VisuAlgo 于 2011 年由 Steven Halim 博士创建，是一个允许学生以自己的速度自学基础知识，从而更好地学习数据结构与算法的工具。",
@@ -2735,11 +2376,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/nus.png",
 		"name": "VisuAlgo",
 		"name_en": "VisuAlgo",
-		"original_url": "https://visualgo.net/zh",
+		"url": "https://visualgo.net/zh",
 		"tag": "技术/算法",
-		"tag_en": "CS-Algorithm",
-		"url": "https://fei.ai/VfoX",
-		"url_en": "https://fei.ai/VfoX"
+		"tag_en": "CS-Algorithm"
 	},
 	{
 		"desc": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.",
@@ -2748,11 +2387,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/leetcode.png",
 		"name": "LeetCode",
 		"name_en": "LeetCode",
-		"original_url": "https://oj.leetcode.com/problems/",
+		"url": "https://oj.leetcode.com/problems/",
 		"tag": "技术/算法",
-		"tag_en": "CS-Algorithm",
-		"url": "https://fei.ai/4xQ8",
-		"url_en": "https://fei.ai/4xQ8"
+		"tag_en": "CS-Algorithm"
 	},
 	{
 		"desc": "牛客（北京牛客科技有限公司）成立于 2014 年 9 月，是以科技和创新驱动的教育科技公司。牛客网坚持以前沿技术服务于技术、以人工智能和大数据提升学习效率，专注探索在线教育创新模式，致力于为技术求职者提供能力提升解决方案，同时为企业级用户提供更高效的招聘解决方案，并为二者搭建桥梁，构建从学习到职业的良性生态圈。",
@@ -2761,11 +2398,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/niuke.png",
 		"name": "牛客网",
 		"name_en": "牛客网",
-		"original_url": "http://www.nowcoder.com/courses/6",
+		"url": "http://www.nowcoder.com/courses/6",
 		"tag": "技术/算法",
-		"tag_en": "CS-Algorithm",
-		"url": "https://fei.ai/3dPY",
-		"url_en": "https://fei.ai/3dPY"
+		"tag_en": "CS-Algorithm"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/算法」数据-------------------"
@@ -2777,11 +2412,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/medium.jpeg",
 		"name": "Medium",
 		"name_en": "Medium",
-		"original_url": "https://medium.com/",
+		"url": "https://medium.com/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/tNnx",
-		"url_en": "https://fei.ai/tNnx"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "We make Stack Overflow and 170+ other community-powered Q&A sites.",
@@ -2790,11 +2423,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/stackexchange.png",
 		"name": "Stackexchange",
 		"name_en": "Stackexchange",
-		"original_url": "http://stackexchange.com/",
+		"url": "http://stackexchange.com/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/u68X",
-		"url_en": "https://fei.ai/u68X"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "InfoQ是一个实践驱动、以社区为中心的技术媒体平台，致力于促进软件开发及相关领域知识与创新的传播，提供架构，云计算，AI，前端，大数据等与软件开发相关的最新技术资讯、解读及技术会议。",
@@ -2803,11 +2434,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/infoq.jpeg",
 		"name": "InfoQ",
 		"name_en": "InfoQ",
-		"original_url": "http://www.infoq.com/cn/",
+		"url": "http://www.infoq.com/cn/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/u0E1",
-		"url_en": "https://fei.ai/u0E1"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.",
@@ -2816,11 +2445,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dzone.jpeg",
 		"name": "DZone",
 		"name_en": "DZone",
-		"original_url": "https://dzone.com/",
+		"url": "https://dzone.com/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/ZLe7",
-		"url_en": "https://fei.ai/ZLe7"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
@@ -2829,11 +2456,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/oschina.jpeg",
 		"name": "开源中国",
 		"name_en": "开源中国",
-		"original_url": "http://www.oschina.net/",
+		"url": "http://www.oschina.net/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/U7Pb",
-		"url_en": "https://fei.ai/U7Pb"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "V2EX is a community of start-ups, designers, developers and creative people.",
@@ -2842,11 +2467,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/v2ex.png",
 		"name": "V2EX",
 		"name_en": "V2EX",
-		"original_url": "http://www.v2ex.com/",
+		"url": "http://www.v2ex.com/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/1pmI",
-		"url_en": "https://fei.ai/1pmI"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "We push the China Ruby & Rails community forward!!",
@@ -2855,11 +2478,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rubychina.png",
 		"name": "RubyChina",
 		"name_en": "RubyChina",
-		"original_url": "https://ruby-china.org/",
+		"url": "https://ruby-china.org/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/7jAw",
-		"url_en": "https://fei.ai/7jAw"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "Rust 语言中文社区",
@@ -2868,11 +2489,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rustcc.jpeg",
 		"name": "Rustcc",
 		"name_en": "Rustcc",
-		"original_url": "https://rustcc.cn/",
+		"url": "https://rustcc.cn/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/Nufv",
-		"url_en": "https://fei.ai/Nufv"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "IT大咖说-大咖干货，不再错过",
@@ -2881,11 +2500,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/itdks.jpeg",
 		"name": "IT大咖说",
 		"name_en": "IT大咖说",
-		"original_url": "http://itdks.com/",
+		"url": "http://itdks.com/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/m3Iy",
-		"url_en": "https://fei.ai/m3Iy"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "让我们一起把 『Go 夜读』建立成一个对大家都有帮助的开源社区。",
@@ -2894,11 +2511,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/talkgo.jpeg",
 		"name": "Go夜话",
 		"name_en": "Go夜话",
-		"original_url": "https://talkgo.org/",
+		"url": "https://talkgo.org/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/K35D",
-		"url_en": "https://fei.ai/K35D"
+		"tag_en": "CS-Info"
 	},
 	{
 		"desc": "Thoughtworks 洞见",
@@ -2907,11 +2522,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/thoughtworks.jpeg",
 		"name": "Thoughtworks",
 		"name_en": "Thoughtworks",
-		"original_url": "https://insights.thoughtworks.cn/",
+		"url": "https://insights.thoughtworks.cn/",
 		"tag": "技术/资讯",
-		"tag_en": "CS-Info",
-		"url": "https://fei.ai/kQYu",
-		"url_en": "https://fei.ai/kQYu"
+		"tag_en": "CS-Info"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/资讯」数据-------------------"
@@ -2923,11 +2536,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ycrash.jpeg",
 		"name": "JavaGCtool",
 		"name_en": "JavaGCtool",
-		"original_url": "http://gceasy.io",
+		"url": "http://gceasy.io",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/p2fa",
-		"url_en": "https://fei.ai/p2fa"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "Troubleshoot JVM crashes, slowdowns, memory leaks, freezes, CPU Spikes",
@@ -2936,11 +2547,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ycrash.jpeg",
 		"name": "FastThread",
 		"name_en": "FastThread",
-		"original_url": "https://fastthread.io/",
+		"url": "https://fastthread.io/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/jHA7",
-		"url_en": "https://fei.ai/jHA7"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "HeapHero",
@@ -2949,11 +2558,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ycrash.jpeg",
 		"name": "HeapHero",
 		"name_en": "HeapHero",
-		"original_url": "https://heaphero.io/",
+		"url": "https://heaphero.io/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/eIwW",
-		"url_en": "https://fei.ai/eIwW"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "PerfMa 致力于打造一站式 IT 系统稳定性保障解决方案，专注于性能评测与调优、故障根因定位与解决，为企业提供一系列技术产品与专家服务，提升系统研发与运行质量。",
@@ -2962,11 +2569,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/perfma.jpeg",
 		"name": "Heapdump",
 		"name_en": "Heapdump",
-		"original_url": "https://console.heapdump.cn/",
+		"url": "https://console.heapdump.cn/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/AtTl",
-		"url_en": "https://fei.ai/AtTl"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "Use this form when tuning your MySQL database server to calculate the maximum MySQL memory usage based on configuration settings used in your my.cnf file.",
@@ -2975,11 +2580,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/mysql.png",
 		"name": "MySQL Calculator",
 		"name_en": "MySQL Calculator",
-		"original_url": "http://www.mysqlcalculator.com/",
+		"url": "http://www.mysqlcalculator.com/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/MFyj",
-		"url_en": "https://fei.ai/MFyj"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET.",
@@ -2988,11 +2591,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/regex.png",
 		"name": "Online Regex",
 		"name_en": "Online Regex",
-		"original_url": "https://regex101.com/",
+		"url": "https://regex101.com/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/fFD1",
-		"url_en": "https://fei.ai/fFD1"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "write down a command-line to see the help text that matches each argument",
@@ -3001,11 +2602,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/shell.png",
 		"name": "ExpalinShell",
 		"name_en": "ExpalinShell",
-		"original_url": "https://www.explainshell.com/",
+		"url": "https://www.explainshell.com/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/8R91",
-		"url_en": "https://fei.ai/8R91"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"desc": "致力打造安全、快捷、好用的在线工具箱～",
@@ -3014,11 +2613,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/67tool.png",
 		"name": "67Tool",
 		"name_en": "67Tool",
-		"original_url": "https://www.67tool.com/",
+		"url": "https://www.67tool.com/",
 		"tag": "技术/在线工具",
-		"tag_en": "CS-Tool",
-		"url": "https://fei.ai/2Nd3",
-		"url_en": "https://fei.ai/2Nd3"
+		"tag_en": "CS-Tool"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「技术/在线工具」数据-------------------"
@@ -3030,11 +2627,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/hackernews.png",
 		"name": "HackerNews",
 		"name_en": "HackerNews",
-		"original_url": "https://news.ycombinator.com/",
+		"url": "https://news.ycombinator.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/CJBL",
-		"url_en": "https://fei.ai/CJBL"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "36氪为您提供创业资讯、科技新闻、投融资对接、股权投资、极速融资等创业服务，致力成为创业者可以依赖的创业服务平台，为创业者提供最好的产品和服务",
@@ -3043,11 +2638,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/36kr.jpeg",
 		"name": "36氪",
 		"name_en": "36氪",
-		"original_url": "https://36kr.com/",
+		"url": "https://36kr.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/Hzgx",
-		"url_en": "https://fei.ai/Hzgx"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "雷峰网成立于 2011 年，秉承 “关注智能与未来” 的宗旨，持续对全球前沿技术趋势与产品动态进行深入调研与解读，是国内具有代表性的实力型科技新媒体与信息服务平台。",
@@ -3056,11 +2649,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/leiphone.jpeg",
 		"name": "雷锋网",
 		"name_en": "雷锋网",
-		"original_url": "http://www.leiphone.com/",
+		"url": "http://www.leiphone.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/BBD0",
-		"url_en": "https://fei.ai/BBD0"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "深度投资研究,投研资讯专业研究报告,证券研究报告,投资研究报告,投资分析报告,机构研究报告,股票研究报告,券商研究报告,行业研究报告,公司研究报告",
@@ -3069,11 +2660,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yanbaoke.png",
 		"name": "研报客",
 		"name_en": "研报客",
-		"original_url": "https://yanbaoke.com/index",
+		"url": "https://yanbaoke.com/index",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/Z7pQ",
-		"url_en": "https://fei.ai/Z7pQ"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "行行查是专业行业研究数据库，包含海量细分行业研究报告，研究信息覆盖大消费、节能环保、传媒娱乐、信息科技、地产金融、生命健康、先进制造、传统行业等领域；",
@@ -3082,11 +2671,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/hanghangcha.jpeg",
 		"name": "行行查",
 		"name_en": "行行查",
-		"original_url": "https://www.hanghangcha.com/",
+		"url": "https://www.hanghangcha.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/ugCN",
-		"url_en": "https://fei.ai/ugCN"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "乐晴智库，提供行业深度研究，覆盖大消费，节能环保，传媒娱乐，信息科技，地产金融，生命健康，先进制造等领域。",
@@ -3095,11 +2682,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/767stock.jpeg",
 		"name": "乐晴智库",
 		"name_en": "乐晴智库",
-		"original_url": "http://www.767stock.com/",
+		"url": "http://www.767stock.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/wdoH",
-		"url_en": "https://fei.ai/wdoH"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "发现报告是苏州互方得信息科技有限公司推出的专业研报平台。平台全面覆盖宏观策略、行业分析、公司研究、财报、招股书、定制报告等内容。通过前沿的技术和便捷的产品体验，为金融从业人员、投资者、市场运营等提供信息获取和整合的专业服务。",
@@ -3108,11 +2693,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/fxbaogao.jpeg",
 		"name": "发现报告",
 		"name_en": "发现报告",
-		"original_url": "https://www.fxbaogao.com/",
+		"url": "https://www.fxbaogao.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/2beJ",
-		"url_en": "https://fei.ai/2beJ"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "Chiphell - 分享与交流用户体验 ,Chiphell - 分享与交流用户体验",
@@ -3121,11 +2704,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/chiphell.png",
 		"name": "ChipHell",
 		"name_en": "ChipHell",
-		"original_url": "http://www.chiphell.com/",
+		"url": "http://www.chiphell.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/dBgn",
-		"url_en": "https://fei.ai/dBgn"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
@@ -3134,11 +2715,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sspai.png",
 		"name": "少数派",
 		"name_en": "少数派",
-		"original_url": "https://sspai.com/",
+		"url": "https://sspai.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/2rW0",
-		"url_en": "https://fei.ai/2rW0"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "致力于分享美好数字生活体验，囊括你闻所未闻的最丰富数码资讯，触所未触最抢鲜产品评测，随时随地感受尾巴们各式数字生活精彩图文、摄影感悟、旅行游记、爱物分享。旗下产品：精品电商平台「尾巴良品」 ；移动客户端「数字尾巴」 ，覆盖 iOS、Android 两大主流平台。",
@@ -3147,11 +2726,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dgtle.jpeg",
 		"name": "数字尾巴",
 		"name_en": "数字尾巴",
-		"original_url": "http://www.dgtle.com/",
+		"url": "http://www.dgtle.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/hUcj",
-		"url_en": "https://fei.ai/hUcj"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "聚焦新创和消费主题的科技媒体，成立于 2008 年 10 月，关注产品及体验，致力于“独立，前瞻，深入”的原创报道和分析评论，是国内唯一一家在产业和产品领域同时具有强势影响力的科技媒体。",
@@ -3160,11 +2737,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ifanr.jpeg",
 		"name": "爱范儿",
 		"name_en": "爱范儿",
-		"original_url": "https://www.ifanr.com/",
+		"url": "https://www.ifanr.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/qraB",
-		"url_en": "https://fei.ai/qraB"
+		"tag_en": "Info"
 	},
 	{
 		"desc": "好奇心日报以商业视角观察生活并启发你的好奇心，囊括商业报道、科技新闻、生活方式等各个领域，致力成为这个时代最好的媒体，为用户提供最好的新闻资讯。",
@@ -3173,11 +2748,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/qdaily.jpeg",
 		"name": "好奇心日报",
 		"name_en": "好奇心日报",
-		"original_url": "http://www.qdaily.com/",
+		"url": "http://www.qdaily.com/",
 		"tag": "资讯",
-		"tag_en": "Info",
-		"url": "https://fei.ai/iBJo",
-		"url_en": "https://fei.ai/iBJo"
+		"tag_en": "Info"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「资讯」数据-------------------"
@@ -3189,11 +2762,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/webull.jpeg",
 		"name": "微牛",
 		"name_en": "微牛",
-		"original_url": "https://app.webull.com/",
+		"url": "https://app.webull.com/",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/0kUN",
-		"url_en": "https://fei.ai/0kUN"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "有知有行投资第一课 - 帮你快速搞懂投资最重要的事",
@@ -3202,11 +2773,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/youzhiyouxing.jpeg",
 		"name": "有知有行投资课",
 		"name_en": "有知有行投资课",
-		"original_url": "https://youzhiyouxing.cn/curriculum/lessons",
+		"url": "https://youzhiyouxing.cn/curriculum/lessons",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/PDvc",
-		"url_en": "https://fei.ai/PDvc"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "投资知识体系",
@@ -3215,11 +2784,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/youzhiyouxing.jpeg",
 		"name": "投资知识体系",
 		"name_en": "投资知识体系",
-		"original_url": "https://youzhiyouxing.cn/topics/skeleton/nodes/28",
+		"url": "https://youzhiyouxing.cn/topics/skeleton/nodes/28",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/iTBk",
-		"url_en": "https://fei.ai/iTBk"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "E大干货合集",
@@ -3228,11 +2795,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/youzhiyouxing.jpeg",
 		"name": "E大干货合集",
 		"name_en": "E大干货合集",
-		"original_url": "https://youzhiyouxing.cn/topics/ezone/nodes/2",
+		"url": "https://youzhiyouxing.cn/topics/ezone/nodes/2",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/8MyC",
-		"url_en": "https://fei.ai/8MyC"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "聚宽社区 -量化交易，从聚宽开始。我们提供免费的量化数据、投研工具、量化学习体系、在线交流社区",
@@ -3241,11 +2806,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/joinquant.png",
 		"name": "聚宽",
 		"name_en": "聚宽",
-		"original_url": "https://www.joinquant.com",
+		"url": "https://www.joinquant.com",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/Q8GS",
-		"url_en": "https://fei.ai/Q8GS"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "vnpy - 基于 Python 的开源量化交易平台开发框架",
@@ -3254,11 +2817,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/vnpy.png",
 		"name": "vnpy",
 		"name_en": "vnpy",
-		"original_url": "https://github.com/vnpy/vnpy",
+		"url": "https://github.com/vnpy/vnpy",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/k35T",
-		"url_en": "https://fei.ai/k35T"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "虚拟货币 (BTC、ETH) 炒币量化系统项目。币安交易所 - 量化交易 - 网格策略实践。火币、OKEX 热门交易所未来都支持。最简单收益最靠谱的项目，包教包会。",
@@ -3267,11 +2828,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/binance-quant.jpeg",
 		"name": "币安量化策略",
 		"name_en": "币安量化策略",
-		"original_url": "https://github.com/hengxuZ/binance-quantization",
+		"url": "https://github.com/hengxuZ/binance-quantization",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/h05G",
-		"url_en": "https://fei.ai/h05G"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "数字货币量化交易学习框架",
@@ -3280,11 +2839,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/quantbot.jpeg",
 		"name": "QuantBot",
 		"name_en": "QuantBot",
-		"original_url": "https://github.com/phonegapX/QuantBot",
+		"url": "https://github.com/phonegapX/QuantBot",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/nVVZ",
-		"url_en": "https://fei.ai/nVVZ"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "坚果量化 - 数字货币量化交易系统。",
@@ -3293,11 +2850,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yufuquant.png",
 		"name": "渔夫量化",
 		"name_en": "渔夫量化",
-		"original_url": "https://github.com/yufuquant/yufuquant",
+		"url": "https://github.com/yufuquant/yufuquant",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/rMD1",
-		"url_en": "https://fei.ai/rMD1"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "🚀基于 Python/JavaScript 的数字货币量化交易策略分享，开源",
@@ -3306,11 +2861,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/web3engines.png",
 		"name": "交易策略",
 		"name_en": "交易策略",
-		"original_url": "https://github.com/fengok/ThorCryptocurrencyQuant",
+		"url": "https://github.com/fengok/ThorCryptocurrencyQuant",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/D0lf",
-		"url_en": "https://fei.ai/D0lf"
+		"tag_en": "Invest"
 	},
 	{
 		"desc": "51bitquant Python 数字货币量化交易视频 CCXT 框架 爬取交易所数据 比特币量化交易 交易机器人 51bitquant tradingbot cryptocurrency quantitative trading btc trading",
@@ -3319,11 +2872,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/51bitquant.png",
 		"name": "51bitquant",
 		"name_en": "51bitquant",
-		"original_url": "https://github.com/51bitquant/51bitquant",
+		"url": "https://github.com/51bitquant/51bitquant",
 		"tag": "投资",
-		"tag_en": "Invest",
-		"url": "https://fei.ai/EwNa",
-		"url_en": "https://fei.ai/EwNa"
+		"tag_en": "Invest"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「投资」数据-------------------"
@@ -3335,11 +2886,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/banshujiang.png",
 		"name": "搬书匠",
 		"name_en": "搬书匠",
-		"original_url": "http://www.banshujiang.cn/",
+		"url": "http://www.banshujiang.cn/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/4x1Z",
-		"url_en": "https://fei.ai/4x1Z"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "SaltTiger - 每天一本编程书，每天进步一点点",
@@ -3348,11 +2897,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/salttiger.jpeg",
 		"name": "SaltTiger",
 		"name_en": "SaltTiger",
-		"original_url": "https://salttiger.com/",
+		"url": "https://salttiger.com/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/5HXw",
-		"url_en": "https://fei.ai/5HXw"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "一个不限制下载与推送的电子书网站",
@@ -3361,24 +2908,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/book123.png",
 		"name": "无名图书",
 		"name_en": "无名图书",
-		"original_url": "https://book123.info/",
+		"url": "https://book123.info/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/X61V",
-		"url_en": "https://fei.ai/X61V"
-	},
-	{
-		"desc": "Z-Library 项目的一部分。全球最大的数字图书馆",
-		"desc_en": "Z-Library 项目的一部分。全球最大的数字图书馆",
-		"image": "",
-		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/zLibrary.png",
-		"name": "Z-Library",
-		"name_en": "Z-Library",
-		"original_url": "https://zh.sg1lib.org/",
-		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/LIIC",
-		"url_en": "https://fei.ai/LIIC"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "大家论坛-大型综合性免费在线教育培训学习考试论坛！",
@@ -3387,11 +2919,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/topsage.jpeg",
 		"name": "大家论坛",
 		"name_en": "大家论坛",
-		"original_url": "http://club.topsage.com/",
+		"url": "http://club.topsage.com/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/sTSr",
-		"url_en": "https://fei.ai/sTSr"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "脚本之家电子书籍频道专业提供免费书籍、电子书、电子书籍、编程电子书网络书籍及电脑书籍等各种书籍，图书的下载服务，所有书籍都精心整理，是国内专业的计算机书籍、电脑书籍和网络书籍下载网站！",
@@ -3400,11 +2930,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jb51.gif",
 		"name": "脚本之家",
 		"name_en": "脚本之家",
-		"original_url": "http://www.jb51.net/books",
+		"url": "http://www.jb51.net/books",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/RRdh",
-		"url_en": "https://fei.ai/RRdh"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "书伴（bookfere.com），创建的目的是帮助您更便捷、深入地使用手中的Kindle阅读器，让读书成为生命的一部分，让灵魂永远行走在路上。",
@@ -3413,11 +2941,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/kindlefere.jpeg",
 		"name": "Kindle伴侣",
 		"name_en": "Kindle伴侣",
-		"original_url": "https://kindlefere.com/",
+		"url": "https://kindlefere.com/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/f0Oe",
-		"url_en": "https://fei.ai/f0Oe"
+		"tag_en": "Ebook"
 	},
 	{
 		"desc": "鸠摩搜索 - 文档搜索引擎",
@@ -3426,24 +2952,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/jiumo.png",
 		"name": "鸠摩搜书",
 		"name_en": "鸠摩搜书",
-		"original_url": "https://www.jiumodiary.com/",
+		"url": "https://www.jiumodiary.com/",
 		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/TmfP",
-		"url_en": "https://fei.ai/TmfP"
-	},
-	{
-		"desc": "永久免费优质免费电子图书籍资源,电子杂志下载-积微书斋",
-		"desc_en": "永久免费优质免费电子图书籍资源,电子杂志下载-积微书斋",
-		"image": "",
-		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/aibooks.jpeg",
-		"name": "Aibooks",
-		"name_en": "Aibooks",
-		"original_url": "https://www.aibooks.cc",
-		"tag": "电子书",
-		"tag_en": "Ebook",
-		"url": "https://fei.ai/uudY",
-		"url_en": "https://fei.ai/uudY"
+		"tag_en": "Ebook"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「电子书」数据-------------------"
@@ -3455,24 +2966,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/macx.jpeg",
 		"name": "麦克叉",
 		"name_en": "麦克叉",
-		"original_url": "http://www.macx.cn/",
+		"url": "http://www.macx.cn/",
 		"tag": "软件",
-		"tag_en": "Software",
-		"url": "https://fei.ai/ydrF",
-		"url_en": "https://fei.ai/ydrF"
-	},
-	{
-		"desc": "MacWk - 精品mac软件下载",
-		"desc_en": "MacWk - 精品mac软件下载",
-		"image": "",
-		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/macwk.png",
-		"name": "MacWk",
-		"name_en": "MacWk",
-		"original_url": "https://www.macwk.com/",
-		"tag": "软件",
-		"tag_en": "Software",
-		"url": "https://fei.ai/wo9b",
-		"url_en": "https://fei.ai/wo9b"
+		"tag_en": "Software"
 	},
 	{
 		"desc": "玩法儿",
@@ -3481,11 +2977,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/waerfa.jpeg",
 		"name": "玩法儿",
 		"name_en": "玩法儿",
-		"original_url": "https://www.waerfa.com/",
+		"url": "https://www.waerfa.com/",
 		"tag": "软件",
-		"tag_en": "Software",
-		"url": "https://fei.ai/DbrP",
-		"url_en": "https://fei.ai/DbrP"
+		"tag_en": "Software"
 	},
 	{
 		"desc": "极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。",
@@ -3494,11 +2988,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/iplaysoft.jpeg",
 		"name": "异次元",
 		"name_en": "异次元",
-		"original_url": "http://www.iplaysoft.com/",
+		"url": "http://www.iplaysoft.com/",
 		"tag": "软件",
-		"tag_en": "Software",
-		"url": "https://fei.ai/67SR",
-		"url_en": "https://fei.ai/67SR"
+		"tag_en": "Software"
 	},
 	{
 		"desc": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
@@ -3507,11 +2999,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/appinn.webp",
 		"name": "小众软件",
 		"name_en": "小众软件",
-		"original_url": "http://www.appinn.com/",
+		"url": "http://www.appinn.com/",
 		"tag": "软件",
-		"tag_en": "Software",
-		"url": "https://fei.ai/hqUX",
-		"url_en": "https://fei.ai/hqUX"
+		"tag_en": "Software"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「软件」数据-------------------"
@@ -3523,11 +3013,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/wallhaven.png",
 		"name": "WallHaven",
 		"name_en": "WallHaven",
-		"original_url": "https://alpha.wallhaven.cc/",
+		"url": "https://alpha.wallhaven.cc/",
 		"tag": "图片",
-		"tag_en": "Img",
-		"url": "https://fei.ai/eJTc",
-		"url_en": "https://fei.ai/eJTc"
+		"tag_en": "Img"
 	},
 	{
 		"desc": "The internet’s source of freely-usable images. Powered by creators everywhere.",
@@ -3536,11 +3024,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/unsplash.jpeg",
 		"name": "Unsplash",
 		"name_en": "Unsplash",
-		"original_url": "https://unsplash.com/",
+		"url": "https://unsplash.com/",
 		"tag": "图片",
-		"tag_en": "Img",
-		"url": "https://fei.ai/lyYJ",
-		"url_en": "https://fei.ai/lyYJ"
+		"tag_en": "Img"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「图片」数据-------------------"
@@ -3552,11 +3038,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/go1.png",
 		"name": "Golang圣经",
 		"name_en": "Golang圣经",
-		"original_url": "https://book.itsfun.top/gopl-zh/",
+		"url": "https://book.itsfun.top/gopl-zh/",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/xYOL",
-		"url_en": "https://fei.ai/xYOL"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "Golang原本",
@@ -3565,11 +3049,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/go2.png",
 		"name": "Golang原本",
 		"name_en": "Golang原本",
-		"original_url": "https://golang.design/under-the-hood",
+		"url": "https://golang.design/under-the-hood",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/z2pZ",
-		"url_en": "https://fei.ai/z2pZ"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "Go语言设计与实现",
@@ -3578,11 +3060,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/go3.svg",
 		"name": "Go语言设计与实现",
 		"name_en": "Go语言设计与实现",
-		"original_url": "https://draveness.me/golang/",
+		"url": "https://draveness.me/golang/",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/Q8wP",
-		"url_en": "https://fei.ai/Q8wP"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "Golang高级编程",
@@ -3591,11 +3071,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/go4.svg",
 		"name": "Golang高级编程",
 		"name_en": "Golang高级编程",
-		"original_url": "https://chai2010.cn/advanced-go-programming-book/",
+		"url": "https://chai2010.cn/advanced-go-programming-book/",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/J9tR",
-		"url_en": "https://fei.ai/J9tR"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "Rust程序语言设计",
@@ -3604,11 +3082,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rust.png",
 		"name": "Rust程序语言设计",
 		"name_en": "Rust程序语言设计",
-		"original_url": "https://kaisery.github.io/trpl-zh-cn/title-page.html",
+		"url": "https://kaisery.github.io/trpl-zh-cn/title-page.html",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/fCsR",
-		"url_en": "https://fei.ai/fCsR"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "TCP/IP Guide",
@@ -3617,11 +3093,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/tcpip.jpeg",
 		"name": "TCP/IP Guide",
 		"name_en": "TCP/IP Guide",
-		"original_url": "http://tcpipguide.com/free/t_toc.htm",
+		"url": "http://tcpipguide.com/free/t_toc.htm",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/qUUv",
-		"url_en": "https://fei.ai/qUUv"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "知道创宇研发技能表",
@@ -3630,11 +3104,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog5.png",
 		"name": "知道创宇研发技能表",
 		"name_en": "知道创宇研发技能表",
-		"original_url": "http://blog.knownsec.com/Knownsec_RD_Checklist/index.html",
+		"url": "http://blog.knownsec.com/Knownsec_RD_Checklist/index.html",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/IqSc",
-		"url_en": "https://fei.ai/IqSc"
+		"tag_en": "Doc"
 	},
 	{
 		"desc": "认知偏差手册",
@@ -3643,11 +3115,86 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
 		"name": "认知偏差手册",
 		"name_en": "认知偏差手册",
-		"original_url": "https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf",
+		"url": "https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf",
 		"tag": "文档",
-		"tag_en": "Doc",
-		"url": "https://fei.ai/70dc",
-		"url_en": "https://fei.ai/70dc"
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "急救指南",
+		"desc_en": "急救指南",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "急救指南",
+		"name_en": "急救指南",
+		"url": "https://m.youlai.cn/jijiu",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "Grace 的个人说明书",
+		"desc_en": "Grace 的个人说明书",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "Grace 的个人说明书",
+		"name_en": "急救指南",
+		"url": "https://presence.feishu.cn/wiki/wikcnhjKURRl3HSXxHK5I6eWT6e",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "参考答案是一个阅读内容聚合知识库，涉及产品、管理、设计、经营等多个方向。其中包含多个模块，详情见左侧「参考导航」。",
+		"desc_en": "参考答案是一个阅读内容聚合知识库，涉及产品、管理、设计、经营等多个方向。其中包含多个模块，详情见左侧「参考导航」。",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "参考答案",
+		"name_en": "参考答案",
+		"url": "https://ouranswers.notion.site/ouranswers/Answers-3f47ddf1cd3c49ba8440a3e4b455b1c4",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "产品经理的无限游戏",
+		"desc_en": "产品经理的无限游戏",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "产品经理的无限游戏",
+		"name_en": "产品经理的无限游戏",
+		"url": "https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/di-1-zhang-hu-lian-wang-chan-pin",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "Praxis是可免费使用的项目、项目群和项目组合的管理框架，包括一套知识体系、方法论、胜任力框架和能力成熟度模型。该框架由资源知识库和百科全书库支持。",
+		"desc_en": "Praxis是可免费使用的项目、项目群和项目组合的管理框架，包括一套知识体系、方法论、胜任力框架和能力成熟度模型。该框架由资源知识库和百科全书库支持。",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "Praxis",
+		"name_en": "Praxis",
+		"url": "https://www.praxisframework.org/",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "卢曼卡片盒笔记法介绍",
+		"desc_en": "卢曼卡片盒笔记法介绍",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "卢曼卡片盒笔记法介绍",
+		"name_en": "卢曼卡片盒笔记法介绍",
+		"url": "https://zettelkasten.de/introduction/zh/",
+		"tag": "文档",
+		"tag_en": "Doc"
+	},
+	{
+		"desc": "Wiki Design - 最近座右铭：想都是问题，做才有答案。: )",
+		"desc_en": "Wiki Design - 最近座右铭：想都是问题，做才有答案。: )",
+		"image": "",
+		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/blog2.png",
+		"name": "Wiki Design",
+		"name_en": "Wiki Design",
+		"url": "https://www.yuque.com/wikidesign",
+		"tag": "文档",
+		"tag_en": "Doc"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「文档」数据-------------------"
@@ -3659,11 +3206,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/btc.png",
 		"name": "₿-123BTC",
 		"name_en": "₿-123BTC",
-		"original_url": "http://123btc.org",
+		"url": "http://123btc.org",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/wv7Z",
-		"url_en": "https://fei.ai/wv7Z"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "Ξ - A Portal to Ethereum Ecosystem 以太坊生态资源导航",
@@ -3672,11 +3217,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/eth.png",
 		"name": "Ξ-123ETH",
 		"name_en": "Ξ-123ETH",
-		"original_url": "http://123eth.org",
+		"url": "http://123eth.org",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/FZOb",
-		"url_en": "https://fei.ai/FZOb"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "汇聚区块链行业具有价值的数据分析资源网站 by KingData",
@@ -3685,11 +3228,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/ikingdataLogo.png",
 		"name": "KingData导航",
 		"name_en": "KingData导航",
-		"original_url": "https://kingdata.com/nav/all/",
+		"url": "https://kingdata.com/nav/all/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/mo8e",
-		"url_en": "https://fei.ai/mo8e"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "科塔学术导航-致力于成为国内领先的科研与学术资源导航平台。",
@@ -3698,11 +3239,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/sciping.png",
 		"name": "科塔学术导航",
 		"name_en": "科塔学术导航",
-		"original_url": "https://site.sciping.com/",
+		"url": "https://site.sciping.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/vMff",
-		"url_en": "https://fei.ai/vMff"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "打假人,执法者,进货人,消费者专用查询的网址导航站点，直通官方数据库。",
@@ -3711,11 +3250,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/dajia.png",
 		"name": "打假导航",
 		"name_en": "打假导航",
-		"original_url": "http://www.dajiadaohang.com/",
+		"url": "http://www.dajiadaohang.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/LWvs",
-		"url_en": "https://fei.ai/LWvs"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "财经网址导航 - 雪球",
@@ -3724,11 +3261,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/xueqiu.jpeg",
 		"name": "财经网址导航",
 		"name_en": "财经网址导航",
-		"original_url": "https://xueqiu.com/dh",
+		"url": "https://xueqiu.com/dh",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/APyZ",
-		"url_en": "https://fei.ai/APyZ"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "电影网址导航、影视网址导航。搜集、归类、整理、分享各种影视网站网址，致力于让用户全面地访问到一个影视网站大全。",
@@ -3737,11 +3272,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/yingmi.png",
 		"name": "影迷导航网",
 		"name_en": "影迷导航网",
-		"original_url": "http://www.yingmi123.com/",
+		"url": "http://www.yingmi123.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/zorE",
-		"url_en": "https://fei.ai/zorE"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "看国外网站大全收录了国外著名的网站、好玩的、好看的、有趣的国外网站以及实用的、优秀的国外网站",
@@ -3750,11 +3283,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/kanguowai.png",
 		"name": "看国外",
 		"name_en": "看国外",
-		"original_url": "http://www.kanguowai.com/",
+		"url": "http://www.kanguowai.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/0EDw",
-		"url_en": "https://fei.ai/0EDw"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "萌导航, 你的二次元导航姬！",
@@ -3763,11 +3294,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/moe123.png",
 		"name": "萌导航！",
 		"name_en": "萌导航！",
-		"original_url": "http://www.moe123.net/",
+		"url": "http://www.moe123.net/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/DPO1",
-		"url_en": "https://fei.ai/DPO1"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "灰大设计导航是灰色执照创建的设计师导航网站",
@@ -3776,11 +3305,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/huida.png",
 		"name": "灰大设计",
 		"name_en": "灰大设计",
-		"original_url": "https://www.pslkzs.com/nav.php",
+		"url": "https://www.pslkzs.com/nav.php",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/34Q6",
-		"url_en": "https://fei.ai/34Q6"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "SDC 是优设网旗下最实用、最全面、最好用的设计师导航！",
@@ -3789,11 +3316,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/youshe.jpeg",
 		"name": "优设导航",
 		"name_en": "优设导航",
-		"original_url": "https://hao.uisdc.com/",
+		"url": "https://hao.uisdc.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/DOAW",
-		"url_en": "https://fei.ai/DOAW"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "睡醒-为互联网工作者而设计",
@@ -3802,11 +3327,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/shuixing.png",
 		"name": "睡醒",
 		"name_en": "睡醒",
-		"original_url": "https://sx.supengjun.com/",
+		"url": "https://sx.supengjun.com/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/Iz4c",
-		"url_en": "https://fei.ai/Iz4c"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "UECOOK，交流UIUX、平面设计、插画、空间设计、工业设计、产品设计等",
@@ -3815,11 +3338,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/uecook.png",
 		"name": "UECook",
 		"name_en": "UECook",
-		"original_url": "http://uecook.com/sites",
+		"url": "http://uecook.com/sites",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/SLny",
-		"url_en": "https://fei.ai/SLny"
+		"tag_en": "Nav"
 	},
 	{
 		"desc": "团队协作导航，包含众多协作工具",
@@ -3828,11 +3349,9 @@
 		"logo": "https://soulicu-logo.oss-cn-hangzhou.aliyuncs.com/rework.png",
 		"name": "REWORK 导航",
 		"name_en": "REWORK 导航",
-		"original_url": "https://rework.tools/collaboration/",
+		"url": "https://rework.tools/collaboration/",
 		"tag": "导航",
-		"tag_en": "Nav",
-		"url": "https://fei.ai/HPey",
-		"url_en": "https://fei.ai/HPey"
+		"tag_en": "Nav"
 	},
 	{
 		"_comment": "--------------------------------------------------------以上是「导航」数据-------------------"

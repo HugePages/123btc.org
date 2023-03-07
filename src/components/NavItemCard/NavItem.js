@@ -25,7 +25,6 @@ const NavItem = ({
     desc,
     desc_en,
     url,
-    url_en,
     logoWidthAuto,
     logoHeightAuto,
   },
@@ -34,7 +33,7 @@ const NavItem = ({
 
   const size = 30;
 
-  const website = language === 'zh' ? url : (url_en || url);
+  const website = language === 'zh' ? url : (url || url);
 
   // render item desc
   const renderDesc = () => {
